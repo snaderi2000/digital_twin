@@ -1,0 +1,28 @@
+;FFMETADATA1
+title=Si-o-se-pol | Architectural fly-through
+comment=Rendered from a reference-based Blender reconstruction.
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=15000
+title=River approach
+[CHAPTER]
+TIMEBASE=1/1000
+START=15000
+END=27500
+title=Through the river arch
+[CHAPTER]
+TIMEBASE=1/1000
+START=27500
+END=40000
+title=Upper promenade
+[CHAPTER]
+TIMEBASE=1/1000
+START=40000
+END=50000
+title=Lower gallery
+[CHAPTER]
+TIMEBASE=1/1000
+START=50000
+END=60000
+title=The bridge of thirty-three arches

@@ -1,0 +1,12 @@
+{
+  "file": "video/si_o_se_pol_flythrough.mp4",
+  "codec": "h264",
+  "pixel_format": "yuv420p",
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "frames": 576,
+  "duration_seconds": 24.0,
+  "size_bytes": 25675703,
+  "validation": "passed"
+}

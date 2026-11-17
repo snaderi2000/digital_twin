@@ -1,0 +1,16 @@
+.DS_Store
+.tools/
+__pycache__/
+*.pyc
+*.blend1
+*.blend2
+references/*
+!references/README.md
+output/*.log
+renders/_draft*
+renders/*_check.png
+video/frames/
+video/previews/
+video/benchmark/
+video/extended-cache/
+video/*.encoding.mp4

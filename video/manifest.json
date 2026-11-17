@@ -1,0 +1,45 @@
+{
+  "fps": 24,
+  "frames": 576,
+  "duration_seconds": 24.0,
+  "width": 1920,
+  "height": 1080,
+  "engine": "EEVEE",
+  "samples": 16,
+  "shots": [
+    {
+      "shot": "River approach",
+      "first": 1,
+      "last": 144,
+      "path_collision_free": true
+    },
+    {
+      "shot": "Through the river arch",
+      "first": 145,
+      "last": 264,
+      "path_collision_free": true
+    },
+    {
+      "shot": "Upper promenade",
+      "first": 265,
+      "last": 384,
+      "path_collision_free": true
+    },
+    {
+      "shot": "Lower gallery",
+      "first": 385,
+      "last": 480,
+      "path_collision_free": true
+    },
+    {
+      "shot": "The bridge of thirty-three arches",
+      "first": 481,
+      "last": 576,
+      "path_collision_free": true
+    }
+  ],
+  "original_scene": "output/si_o_se_pol.blend",
+  "animation_scene": "output/si_o_se_pol_flythrough.blend",
+  "render_signature": "5069700462945663bdc3aab851390da7b2ce5e15fe6057dd7965eff65dc60893",
+  "animation_sha256": "0bce40e0954c2941698afcdaec30e39d7b9462abede8dadb876438513655f7af"
+}

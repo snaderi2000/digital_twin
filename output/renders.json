@@ -1,0 +1,62 @@
+{
+  "gallery": {
+    "file": "renders/gallery.png",
+    "camera": "05 \u00b7 Lower longitudinal gallery",
+    "width": 2560,
+    "height": 1440,
+    "max_samples": 64,
+    "frame": 1,
+    "engine": "Cycles",
+    "blender": "4.5.9 LTS"
+  },
+  "detail": {
+    "file": "renders/detail.png",
+    "camera": "03 \u00b7 Masonry and cutwater",
+    "width": 2560,
+    "height": 1440,
+    "max_samples": 64,
+    "frame": 1,
+    "engine": "Cycles",
+    "blender": "4.5.9 LTS"
+  },
+  "deck": {
+    "file": "renders/deck.png",
+    "camera": "04 \u00b7 Upper promenade",
+    "width": 2560,
+    "height": 1440,
+    "max_samples": 64,
+    "frame": 1,
+    "engine": "Cycles",
+    "blender": "4.5.9 LTS"
+  },
+  "elevation": {
+    "file": "renders/elevation.png",
+    "camera": "02 \u00b7 Complete west elevation",
+    "width": 2560,
+    "height": 1440,
+    "max_samples": 64,
+    "frame": 1,
+    "engine": "Cycles",
+    "blender": "4.5.9 LTS"
+  },
+  "aerial": {
+    "file": "renders/aerial.png",
+    "camera": "06 \u00b7 Architectural overview",
+    "width": 2560,
+    "height": 1440,
+    "max_samples": 64,
+    "frame": 1,
+    "engine": "Cycles",
+    "blender": "4.5.9 LTS"
+  },
+  "hero": {
+    "file": "renders/hero.png",
+    "camera": "01 \u00b7 River panorama",
+    "width": 3840,
+    "height": 2160,
+    "max_samples": 128,
+    "frame": 1,
+    "engine": "Cycles",
+    "blender": "4.5.9 LTS"
+  }
+}

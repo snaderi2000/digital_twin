@@ -1,0 +1,21 @@
+{
+  "river_spans": 33,
+  "length_m": 297.76,
+  "nominal_width_m": 13.8,
+  "objects": 1994,
+  "mesh_vertices": 820543,
+  "mesh_faces": 512612,
+  "cameras": [
+    "01 \u00b7 River panorama",
+    "02 \u00b7 Complete west elevation",
+    "03 \u00b7 Masonry and cutwater",
+    "04 \u00b7 Upper promenade",
+    "05 \u00b7 Lower longitudinal gallery",
+    "06 \u00b7 Architectural overview"
+  ],
+  "blender": "4.5.9 LTS",
+  "render_device": "GPU",
+  "checks": "33 numbered spans; finite mesh vertices; UVs; metric units; cameras",
+  "accuracy": "Not survey certified. See docs/accuracy.md.",
+  "saved_scene_default_device": "CPU"
+}

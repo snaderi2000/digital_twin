@@ -1,0 +1,47 @@
+{
+  "fps": 24,
+  "frames": 1440,
+  "duration_seconds": 60,
+  "width": 1920,
+  "height": 1080,
+  "shots": [
+    {
+      "shot": "River approach",
+      "first": 1,
+      "last": 360,
+      "source_first": 1,
+      "source_last": 144
+    },
+    {
+      "shot": "Through the river arch",
+      "first": 361,
+      "last": 660,
+      "source_first": 145,
+      "source_last": 264
+    },
+    {
+      "shot": "Upper promenade",
+      "first": 661,
+      "last": 960,
+      "source_first": 265,
+      "source_last": 384
+    },
+    {
+      "shot": "Lower gallery",
+      "first": 961,
+      "last": 1200,
+      "source_first": 385,
+      "source_last": 480
+    },
+    {
+      "shot": "The bridge of thirty-three arches",
+      "first": 1201,
+      "last": 1440,
+      "source_first": 481,
+      "source_last": 576
+    }
+  ],
+  "method": "Per-shot motion-compensated retiming of original Blender PNG frames",
+  "source_manifest": "video/manifest.json",
+  "source_render_signature": "5069700462945663bdc3aab851390da7b2ce5e15fe6057dd7965eff65dc60893"
+}

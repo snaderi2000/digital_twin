@@ -1,0 +1,14 @@
+{
+  "reopened_blend": "si_o_se_pol.blend",
+  "numbered_spans": 33,
+  "external_image_dependencies": [],
+  "water_shader_animation": true,
+  "full_bridge_camera_framing": [
+    "elevation",
+    "aerial"
+  ],
+  "metric_scale": true,
+  "portable_default_device": "CPU",
+  "lower_gallery_clear_length_m": 260,
+  "result": "passed"
+}
