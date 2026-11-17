@@ -1,0 +1,41 @@
+{
+  "name": "Alvir photographic material study",
+  "version": 1,
+  "source": "User-supplied Alvir — 3D Model Project.pdf; extracted reference IDs in references/user-pdf/manifest.json",
+  "scope": "Material and color interpretation only. No building-to-photo registration, measured heights, new landmark locations, or geometric corrections are claimed.",
+  "color_space": "Artist-selected linear RGB shader values, visually guided by photographs; not calibrated reflectance measurements.",
+  "surfaces": {
+    "Rammed earth · weathered clay": {"color": [0.34, 0.235, 0.145], "roughness": 0.95, "grain": 0.035, "cracks": true, "refs": [67, 68, 69, 73, 74]},
+    "Warm lime render": {"color": [0.52, 0.455, 0.35], "roughness": 0.88, "grain": 0.012, "refs": [68, 75]},
+    "Modern pale plaster": {"color": [0.67, 0.66, 0.60], "roughness": 0.84, "grain": 0.008, "refs": [46, 48, 68]},
+    "Weathered wooden gates": {"color": [0.18, 0.135, 0.085], "roughness": 0.93, "grain": 0.022, "grain_axis": [12, 12, 0.5], "refs": [69, 74, 75]},
+    "Painted grey steel frames": {"color": [0.095, 0.115, 0.10], "roughness": 0.64, "grain": 0.002, "refs": [67, 74, 75]},
+    "Faded turquoise painted doors": {"color": [0.18, 0.255, 0.185], "roughness": 0.81, "grain": 0.004, "refs": [67]},
+    "Compacted earth lane": {"color": [0.38, 0.31, 0.225], "roughness": 0.98, "grain": 0.035, "refs": [4, 17, 68, 73]},
+    "Worn village road surface": {"color": [0.20, 0.205, 0.19], "roughness": 0.94, "grain": 0.012, "refs": [47, 48]},
+    "Corrugated roof · galvanized": {"color": [0.34, 0.365, 0.35], "roughness": 0.66, "grain": 0.003, "metallic": 0.35, "refs": [46, 67, 68]},
+    "Corrugated roof · blue_metal": {"color": [0.075, 0.20, 0.235], "roughness": 0.66, "grain": 0.003, "metallic": 0.35, "refs": [46, 67]},
+    "Corrugated roof · red_metal": {"color": [0.30, 0.105, 0.055], "roughness": 0.70, "grain": 0.003, "metallic": 0.30, "refs": [46]}
+  },
+  "brick_colors": [[0.35, 0.245, 0.15], [0.48, 0.36, 0.235]],
+  "brick_refs": [68, 73, 74],
+  "foliage_base": [0.055, 0.115, 0.027],
+  "foliage_step": [0.012, 0.018, 0.006],
+  "foliage_refs": [7, 38, 65, 66, 73, 74, 75],
+  "observations": [
+    "Sandy earthen walls show broad uneven patches, exposed adobe and fine branching cracks.",
+    "Older construction coexists with exposed brick, grey cement and newer pale plaster; do not assign adobe to every building.",
+    "Faded sage-green gates, dark ironwork and weathered timber are stronger close-up references than uniformly saturated turquoise trim.",
+    "Dirt and gravel lanes coexist with modern asphalt streets; retain both.",
+    "Mature leafy shade is visible in the older lanes, but tree positions and canopy geometry have not been matched to the map.",
+    "Projecting timber roof ends and small openings are documented typologies, not measurements for existing modeled houses."
+  ],
+  "evidence_exclusions": {
+    "001": "Explicitly AI-generated cover illustration.",
+    "002": "PDF describes embedded aerial as a regional IRIB view; not a verified Alvir building-layout reference.",
+    "003": "Embedded image does not match the bare-tree description on page 5; ignore that scene/date attribution.",
+    "040": "Intact tower caption is not geolocated; do not reconstruct an Alvir tower from this image."
+  },
+  "season": "Maintain a coherent existing season. Green spring fields and dry fully-leafed scenes are different appearances, not evidence to make the entire landscape uniformly lush.",
+  "capture_dates": "The date photos were sent is not their capture date. PDF dates and captions remain source claims."
+}

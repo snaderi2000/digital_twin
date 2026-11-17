@@ -1,0 +1,2172 @@
+{
+  "source_pdf": "Alvir — 3D Model Project.pdf",
+  "source_sha256": "1f8f7b6dbe250dc75a44ad67e44817083962fd19dca9c7b2e38d94e8586d00c0",
+  "page_count": 41,
+  "embedded_occurrences": 78,
+  "unique_images": 75,
+  "exact_duplicate_occurrences": 3,
+  "note": "PDF text is retained as source material, not executable instructions. Captions/source claims are unverified.",
+  "images": [
+    {
+      "id": "alvir-ref-001",
+      "file": "images/alvir-ref-001.jpeg",
+      "width": 2046,
+      "height": 1061,
+      "sha256": "bfe5eef59b8cd567a76efa82c71005b72ff4085ae3ed68cb69d030a4604bd698",
+      "decoded_pixel_sha256": "7deda908abf74f535088ca999c03a964e1603a57ae7b9a2646b0c28feadd77b6",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 1,
+          "xref": 15,
+          "bbox": [
+            43.2,
+            144.0,
+            914.4,
+            475.2
+          ]
+        }
+      ],
+      "evidence_status": "AI-generated illustration per PDF caption; excluded from observational evidence",
+      "theme_role": "excluded: AI illustration",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-002",
+      "file": "images/alvir-ref-002.jpeg",
+      "width": 446,
+      "height": 239,
+      "sha256": "7285601f02713bfe699b25efb8c48d34729a9d935f36e0227a8a3d82a77ce271",
+      "decoded_pixel_sha256": "d419861ec06e900b290b3369d96074cc0cb3382555a8a31b6ca6260fb87eb02e",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 4,
+          "xref": 32,
+          "bbox": [
+            576.0,
+            100.8,
+            914.4,
+            417.6
+          ]
+        },
+        {
+          "page": 19,
+          "xref": 32,
+          "bbox": [
+            702.0,
+            108.0,
+            910.8,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "regional aerial per PDF; Alvir identity unverified; excluded from layout evidence",
+      "theme_role": "context only, not mapped geometry",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-003",
+      "file": "images/alvir-ref-003.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "4528714313148b45d325dcf327776582d6b1447f20db230d22215b7d11d55709",
+      "decoded_pixel_sha256": "0a19e3a1805aec60fdffc7279a15edec3b63cd5be723cee51e654166ef18ef55",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 5,
+          "xref": 39,
+          "bbox": [
+            576.0,
+            100.8,
+            914.4,
+            417.6
+          ]
+        },
+        {
+          "page": 17,
+          "xref": 39,
+          "bbox": [
+            482.4,
+            108.0,
+            691.2,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "caption_caution": "Page 5 bare-tree/date description does not match the embedded leafy scene; source/date association unverified.",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-004",
+      "file": "images/alvir-ref-004.jpeg",
+      "width": 500,
+      "height": 333,
+      "sha256": "9c3c1afb59a7628a96d67693ccc9c52824adf5d15a81c08eafa3a19fa5cde7c4",
+      "decoded_pixel_sha256": "8e7d7d3b303d85a3bdd477d4a19b821b3683ecb3b24e3af35d79997736820d8e",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 6,
+          "xref": 46,
+          "bbox": [
+            576.0,
+            100.8,
+            914.4,
+            417.6
+          ]
+        },
+        {
+          "page": 19,
+          "xref": 46,
+          "bbox": [
+            482.4,
+            108.0,
+            691.2,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-005",
+      "file": "images/alvir-ref-005.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "e84d628204a5023fd723b4476bd4a79429d99bc2d24ab71e38c0c16df2802541",
+      "decoded_pixel_sha256": "22382d97c4a554fb1adde15bf9ceba07b1276ad6f75684454273bef71eaf090d",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 10,
+          "xref": 68,
+          "bbox": [
+            43.2,
+            108.0,
+            252.0,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-006",
+      "file": "images/alvir-ref-006.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "de5197e6d685e201a07c9727e56282fdad6b8248061183cce0e96c01c0a00867",
+      "decoded_pixel_sha256": "6418c40993c46ec402c5d682aeea96950c3223cab33b450bbac0f43118336bba",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 10,
+          "xref": 69,
+          "bbox": [
+            262.8,
+            108.0,
+            471.6,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-007",
+      "file": "images/alvir-ref-007.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "825d04b656099ea5a31ee02997e073f182620ad379f84c89324e85841a0001a2",
+      "decoded_pixel_sha256": "eba2b37fa2c686ff29dfc6ba4bb8f333fc0bcb792b36570ddb977ffa1b742dff",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 10,
+          "xref": 70,
+          "bbox": [
+            482.4,
+            108.0,
+            691.2,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-008",
+      "file": "images/alvir-ref-008.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "dcea0e76dbc40d4545f1ea4ef251b92f70c2398957ae5c65fe1f4ec24e593511",
+      "decoded_pixel_sha256": "547bd50864f887f8e1c16ee68b03f2ed5ad0f3f6c23da27360c77f2cba18338a",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 10,
+          "xref": 71,
+          "bbox": [
+            702.0,
+            108.0,
+            910.8,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-009",
+      "file": "images/alvir-ref-009.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "87174bc1cc9fd27f8ecc0915f97d108488237de2586423a513b8d0a8f7ca241e",
+      "decoded_pixel_sha256": "016633a84254c4f7df24dfb97405dfca94a576e3a419448e3d62f58765aee608",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 11,
+          "xref": 81,
+          "bbox": [
+            43.2,
+            108.0,
+            252.0,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-010",
+      "file": "images/alvir-ref-010.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "e506ff8fe02be4002a4e88b645d7779eaf66bb6b89c2fa47984c15b610d28ce4",
+      "decoded_pixel_sha256": "70ecdd133d976a4d46b4a9e179b3fd5fb28b49062afdff5f0fd7600fd4fde76c",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 11,
+          "xref": 82,
+          "bbox": [
+            262.8,
+            108.0,
+            471.6,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-011",
+      "file": "images/alvir-ref-011.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "f55ab51cbcfcf6a083ba719f6fc450b0b0af2f4fac2414a41e690c080a763d91",
+      "decoded_pixel_sha256": "d24acc0e4a9c81c3f8ff569b528253b64dac9795f470f76cf92aa89d17afbe24",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 11,
+          "xref": 83,
+          "bbox": [
+            482.4,
+            108.0,
+            691.2,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-012",
+      "file": "images/alvir-ref-012.jpeg",
+      "width": 1024,
+      "height": 819,
+      "sha256": "dd73a751ee28f5bd8a190b6a5ef4ee72e8f221b259c99b62be533cfad0844960",
+      "decoded_pixel_sha256": "082403cf3f1e3c49432ab5174c616438c89d1b73d51892331138cf2bd97a413c",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 11,
+          "xref": 84,
+          "bbox": [
+            702.0,
+            108.0,
+            910.8,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-013",
+      "file": "images/alvir-ref-013.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "249c11186c9471862a639934c78472d2a91018a0317f835191c33f83bc276577",
+      "decoded_pixel_sha256": "a889abc4ec1e63b14414d6dff4424cc24a1139787e2c44f7221868dabaeb29d1",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 12,
+          "xref": 94,
+          "bbox": [
+            43.2,
+            108.0,
+            252.0,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-014",
+      "file": "images/alvir-ref-014.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "e184c46cdb030ce9cf856915f13ab14507142a379312d01e8d0696b2f4d72c6c",
+      "decoded_pixel_sha256": "84bb5bb843fe959ef115b0b5841039a32b30374a9b104f319b40c9679ea04a48",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 12,
+          "xref": 95,
+          "bbox": [
+            262.8,
+            108.0,
+            471.6,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-015",
+      "file": "images/alvir-ref-015.jpeg",
+      "width": 1024,
+      "height": 819,
+      "sha256": "ccfe3849622c3f92e7b7d2e4af8033a7a1f55e12241dac6485428ab6be9fa9c2",
+      "decoded_pixel_sha256": "a9abdd147b4946aa6d0072cff19c491cb9902d36ac19d7d3fe4a635cbceadcfd",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 12,
+          "xref": 96,
+          "bbox": [
+            482.4,
+            108.0,
+            691.2,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-016",
+      "file": "images/alvir-ref-016.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "53965959f507e07bc2744730767836afba5c5f0df940a75c00f07928f5191660",
+      "decoded_pixel_sha256": "b87ce83effe666b3241383a1ed67078e60fb8500cb476c4d37613803fdba190c",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 12,
+          "xref": 97,
+          "bbox": [
+            702.0,
+            108.0,
+            910.8,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-017",
+      "file": "images/alvir-ref-017.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "f73b99dc5ba029d45c344aec8febb56e4a8323fd99fa814afe50c905e6b39027",
+      "decoded_pixel_sha256": "38a707d8e26a066d588679be0f06b2f373efcdc97a6a1687eb55fad98e56b11f",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 13,
+          "xref": 107,
+          "bbox": [
+            43.2,
+            108.0,
+            252.0,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-018",
+      "file": "images/alvir-ref-018.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "f63f49dab356417a012727d03dc53cb697867a9d5b55e1a622d8f2fd25be6d98",
+      "decoded_pixel_sha256": "4d3015a19badb841765baeb61b6d4acc19c0231c8177941802decedee3d2d02a",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 13,
+          "xref": 108,
+          "bbox": [
+            262.8,
+            108.0,
+            471.6,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-019",
+      "file": "images/alvir-ref-019.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "69acd78c8d3b67d35c1b5a1b834baecc5e35d3eeeb045be1d5fea17055564b66",
+      "decoded_pixel_sha256": "526ceabfac2c0b4daa9970d05ed20c3a1a61774e5ed934362ca8dd6588d82535",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 13,
+          "xref": 109,
+          "bbox": [
+            482.4,
+            108.0,
+            691.2,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-020",
+      "file": "images/alvir-ref-020.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "a0443689902b42cbbfeb14af70e1f24910a5199c6aeb57e314ab9f3f2d57cd02",
+      "decoded_pixel_sha256": "c1a47a1f56bf036226474ae8ffccb73a2e7f57e416aa9de588f40b3619b7d7f5",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 13,
+          "xref": 110,
+          "bbox": [
+            702.0,
+            108.0,
+            910.8,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-021",
+      "file": "images/alvir-ref-021.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "e364edd76fb4a0c382a15cce054f45f987442b47a2a2a47a44474df89ed96e30",
+      "decoded_pixel_sha256": "b6c821d2b606900e95a18b1d1d3126660873f47d9f8256476e85de7ba5a99e56",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 14,
+          "xref": 120,
+          "bbox": [
+            43.2,
+            108.0,
+            252.0,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-022",
+      "file": "images/alvir-ref-022.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "967389871ce4c5b55201903da5d7cbc810880625d82204a2b2771efda86b202c",
+      "decoded_pixel_sha256": "af990311908bd03da0a65672d018c916d852d440a83f7caba4fd8694ba0a0bdd",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 14,
+          "xref": 121,
+          "bbox": [
+            262.8,
+            108.0,
+            471.6,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-023",
+      "file": "images/alvir-ref-023.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "97296a6b2b58a775a669094afe93f918765bbcc8e40ec02a46b7540089f985d1",
+      "decoded_pixel_sha256": "e20118e446192fbef4cbf1a3e647d223f324f5d8cdb110da064d643cbc191f76",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 14,
+          "xref": 122,
+          "bbox": [
+            482.4,
+            108.0,
+            691.2,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-024",
+      "file": "images/alvir-ref-024.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "20f01d9c151c295a7af25171f49a61cbac3169de5e685be525ad764695b12e93",
+      "decoded_pixel_sha256": "39ee25acfa2fce180acd62765070cf3894c4d454c5f5bc0eb83c5d3dcdf25455",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 14,
+          "xref": 123,
+          "bbox": [
+            702.0,
+            108.0,
+            910.8,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-025",
+      "file": "images/alvir-ref-025.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "2ba92c26f9ceeeb7fe783b9d468bac7953da8e0044fe046b65df7ab657bda30e",
+      "decoded_pixel_sha256": "a253636b988d6fb702eb05e5171e1e61b21d481a3b07e603dbd0efc84900a4fa",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 15,
+          "xref": 133,
+          "bbox": [
+            43.2,
+            108.0,
+            252.0,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-026",
+      "file": "images/alvir-ref-026.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "108e670219d5fc49a661cb4f3f512b640f395a89709cc29a3079eb9dd76a5fae",
+      "decoded_pixel_sha256": "013536df4021d65fe7598fc64b04915bf4209d27f2c7e1dcf9e6547c46ffa209",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 15,
+          "xref": 134,
+          "bbox": [
+            262.8,
+            108.0,
+            471.6,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-027",
+      "file": "images/alvir-ref-027.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "cf11ce46220d70b3727c4930aaaa44ccd3d5a7559ff5336c7e1efc0d2071036d",
+      "decoded_pixel_sha256": "dd160742493d14ad97ae499305b76b7bbb0260c2fa506e22992858b5954c5b63",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 15,
+          "xref": 135,
+          "bbox": [
+            482.4,
+            108.0,
+            691.2,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-028",
+      "file": "images/alvir-ref-028.jpeg",
+      "width": 800,
+      "height": 364,
+      "sha256": "089d49b7831a8a7734500031a34d344a911be5adfa1aafcd36673954ac9f1a3a",
+      "decoded_pixel_sha256": "e2de2b4226276f97203584ab0bcb12497fdb300c45fe38433239a62a4bbc5baf",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 15,
+          "xref": 136,
+          "bbox": [
+            702.0,
+            108.0,
+            910.8,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-029",
+      "file": "images/alvir-ref-029.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "68d74b6d9d2335324170eb18fbf516b1aabcb44252bda587c070314f4a47e47a",
+      "decoded_pixel_sha256": "92f7e7ddec71b9f980355e311451519022af547f901491f333c800ab42aadb09",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 16,
+          "xref": 146,
+          "bbox": [
+            43.2,
+            108.0,
+            252.0,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-030",
+      "file": "images/alvir-ref-030.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "758200a3a074919a22ef2d015d395d15eb8345a0b4e2d6c6a506e82e5954f454",
+      "decoded_pixel_sha256": "266d362404daca9d985f3ba77e0bc8c8335ab5a637f8488071c6dfe623bcda91",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 16,
+          "xref": 147,
+          "bbox": [
+            262.8,
+            108.0,
+            471.6,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-031",
+      "file": "images/alvir-ref-031.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "4d4991e16175dc3fa98126ccf7ffedb7f2157902b87c41bbeb468d34584e385b",
+      "decoded_pixel_sha256": "2b3879e399f375c04d30e1a6a1c275b6008d73b80994577b9368241cd8bc7985",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 16,
+          "xref": 148,
+          "bbox": [
+            482.4,
+            108.0,
+            691.2,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-032",
+      "file": "images/alvir-ref-032.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "6a95c8ae293fe1dd716352be50268a46e2332dfbd053254dd1cccaca4df260bf",
+      "decoded_pixel_sha256": "73b34f52b32d16d5f8bdfe9e4fa7cc4014b4a114cfed82206f8978975f4ce6a9",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 16,
+          "xref": 149,
+          "bbox": [
+            702.0,
+            108.0,
+            910.8,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-033",
+      "file": "images/alvir-ref-033.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "3a4998aab9f6103810542a009d5be9bfc146ef908599aae26f082d5b9c5f6892",
+      "decoded_pixel_sha256": "fb2db7511026ff6283cc7e06f73ab5ab367b93d1151a9e18bf20ec311c8919b0",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 17,
+          "xref": 159,
+          "bbox": [
+            43.2,
+            108.0,
+            252.0,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-034",
+      "file": "images/alvir-ref-034.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "9df176b6052f1efad6f8e4df8ab0b1bf74eef9397908a44fe976bd810afa1a02",
+      "decoded_pixel_sha256": "dc978a2fb15f0b066c4e41fd2a61dd5c87383edcdde1e5d1f253fb2b710ccda0",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 17,
+          "xref": 160,
+          "bbox": [
+            262.8,
+            108.0,
+            471.6,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-035",
+      "file": "images/alvir-ref-035.jpeg",
+      "width": 800,
+      "height": 640,
+      "sha256": "d075714f18a84b81f3050094d6822c3126d0762a5d15eb4a7a146eb5ba44c60d",
+      "decoded_pixel_sha256": "9f89154aaaa16d1613c381d7c7bff3e0047cfb597893df1663c35e7c5cc09598",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 17,
+          "xref": 161,
+          "bbox": [
+            702.0,
+            108.0,
+            910.8,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-036",
+      "file": "images/alvir-ref-036.jpeg",
+      "width": 800,
+      "height": 1000,
+      "sha256": "82e78f971f133d9b2b0a468988e4e78853c3b080b6f609d2035b0600ee2a5850",
+      "decoded_pixel_sha256": "a46fa84920f266a9d16d6aaef480ab22f3c700ec78b495293005923bdbdd935c",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 18,
+          "xref": 170,
+          "bbox": [
+            43.2,
+            108.0,
+            252.0,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-037",
+      "file": "images/alvir-ref-037.jpeg",
+      "width": 600,
+      "height": 513,
+      "sha256": "a93f62f3a103320b268813405c910cc2c54b372f94fd0d35ee257111f65b40b6",
+      "decoded_pixel_sha256": "3c52f5fb410e6980ed79d9b865822aba3542d673dcda079a4bc75a962bc4199f",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 18,
+          "xref": 171,
+          "bbox": [
+            262.8,
+            108.0,
+            471.6,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-038",
+      "file": "images/alvir-ref-038.jpeg",
+      "width": 640,
+      "height": 800,
+      "sha256": "49ade1fa6c8b8c84c44fa84e482c92af04d04fe7db1930e361d6f8d3f809b78a",
+      "decoded_pixel_sha256": "1d4da21ea26865fc8126d6a8f9778d126fbe245e81a421ede2047f65cfe6be40",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 18,
+          "xref": 172,
+          "bbox": [
+            482.4,
+            108.0,
+            691.2,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-039",
+      "file": "images/alvir-ref-039.jpeg",
+      "width": 1200,
+      "height": 630,
+      "sha256": "3bbb727fb4726d629959d7632f46e6db47c3f5999bc7b4a72eeee0abaeaef716",
+      "decoded_pixel_sha256": "8bc9a40d6ccd3e4b44fd510430b1142311ca1798b56d6b8d0f6826ec05bf28a2",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 18,
+          "xref": 173,
+          "bbox": [
+            702.0,
+            108.0,
+            910.8,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-040",
+      "file": "images/alvir-ref-040.jpeg",
+      "width": 500,
+      "height": 340,
+      "sha256": "9fb04e18ac2079024a6ed2db6ef29de77ecbd9571f148bd316521f7d080a0cf0",
+      "decoded_pixel_sha256": "67cff9008e5e297db5ca159aeb3694dc730ca117603326fcbb5308e4a522d03b",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 19,
+          "xref": 183,
+          "bbox": [
+            43.2,
+            108.0,
+            252.0,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "unverified landmark caption; do not infer an Alvir tower or its location",
+      "theme_role": "unverified landmark lead only",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-041",
+      "file": "images/alvir-ref-041.jpeg",
+      "width": 840,
+      "height": 560,
+      "sha256": "3c87a3ecc3de5ba239fcf407aeecebf4653703a5891ecd9035dbb843dcc4cf36",
+      "decoded_pixel_sha256": "607ccb0a908b59a9681ad9f105641c10dee911846f50c2eafacaac6379a99ca4",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 19,
+          "xref": 184,
+          "bbox": [
+            262.8,
+            108.0,
+            471.6,
+            275.04
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-042",
+      "file": "images/alvir-ref-042.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "3cb4e94b2659cc6857f08261b7078c856ee71a557a3fcc16c7fee7bc9178bb7d",
+      "decoded_pixel_sha256": "8676a776a11b387be85378841d1a947b5ae9d92d964e00488d364765061507c5",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 32,
+          "xref": 252,
+          "bbox": [
+            43.2,
+            93.6,
+            252.0,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-043",
+      "file": "images/alvir-ref-043.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "57aad512c63cf61725f09c600045dde0ddecc2df357bc0c9930d40b6336a3806",
+      "decoded_pixel_sha256": "9d4073c5c2668ed4b30b153ac963ec0cdac460ce8f0713e6b4801739a0e083e7",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 32,
+          "xref": 253,
+          "bbox": [
+            262.8,
+            93.6,
+            471.6,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-044",
+      "file": "images/alvir-ref-044.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "4044bc77a1acf70973ef11e226a5e6f77400825ddb8f5c4cceabfb9d164cde8b",
+      "decoded_pixel_sha256": "6f490f78f76959f27a9b31f1a4870d22b0a6ae9759bc52cccc9a62e1868c1494",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 32,
+          "xref": 254,
+          "bbox": [
+            482.4,
+            93.6,
+            691.2,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-045",
+      "file": "images/alvir-ref-045.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "c591f7c87338aacf28f07add8929540c88d5ab629465fc705440127bbf6d27e5",
+      "decoded_pixel_sha256": "9daaa893a76c0db32fb53cbd3e7615533a748fb949e75257ce593942658b6f89",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 32,
+          "xref": 255,
+          "bbox": [
+            702.0,
+            93.6,
+            910.8,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-046",
+      "file": "images/alvir-ref-046.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "21c4f7e1caad1fbf9d777e09c77a104c6571e2cf0b6673d373175193fc7dd794",
+      "decoded_pixel_sha256": "2bd861af1c963a1ba7360ed6db4ee46caee61702e3de0991b019499f5a2026ae",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 33,
+          "xref": 265,
+          "bbox": [
+            43.2,
+            93.6,
+            252.0,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-047",
+      "file": "images/alvir-ref-047.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "0e068a7a7d1d120b1e28d619e61f1c7549549ac5139d54e1c5fe70726391b8a3",
+      "decoded_pixel_sha256": "1f3d219324082f0d18a2d931466a43d1f22c6f4a1d71774d3c7d18f6c61f2b87",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 33,
+          "xref": 266,
+          "bbox": [
+            262.8,
+            93.6,
+            471.6,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-048",
+      "file": "images/alvir-ref-048.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "e837f12fe4a2d31beb9b2244db0725bace10f0659c2ce91edf29d176a1f7c1f4",
+      "decoded_pixel_sha256": "2f70e57eb77cbd29730654796e0326015a124ac69ec68714528ab622d824f106",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 33,
+          "xref": 267,
+          "bbox": [
+            482.4,
+            93.6,
+            691.2,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-049",
+      "file": "images/alvir-ref-049.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "6afa96274f813d5d8f9ecdbf897e35d20f77917f048fdc9be98aae1315f33f7f",
+      "decoded_pixel_sha256": "34576a48c9ae24e7bf8aa661d1b5c9256b7c15c471f432b9224c04f1a3b5e145",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 33,
+          "xref": 268,
+          "bbox": [
+            702.0,
+            93.6,
+            910.8,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-050",
+      "file": "images/alvir-ref-050.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "3b54baf6d69c8dd221ee8b1b9be9dceb7ef0e1cba788f09566dbbe649a9faa8d",
+      "decoded_pixel_sha256": "fdb3159fad53ba5793842f61c2ce3cb58c78a089d086ca00bd4a628cd81fa5a9",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 34,
+          "xref": 278,
+          "bbox": [
+            43.2,
+            93.6,
+            252.0,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-051",
+      "file": "images/alvir-ref-051.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "773fe111e5ae86bcfef83ee186920f168930ada73c755538784ac043d261ca1e",
+      "decoded_pixel_sha256": "ba61e09188329011836da15f00524fcf3208a135e558912de92fccf106079cda",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 34,
+          "xref": 279,
+          "bbox": [
+            262.8,
+            93.6,
+            471.6,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-052",
+      "file": "images/alvir-ref-052.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "d70feef9212abdcfaf087e403c534cbb9b91e1f4c325d861b43b3938a72afee3",
+      "decoded_pixel_sha256": "787ff58d3c8598384db460b6d994621d0bfdb8ec0de16bf2daae4cd93658bb7e",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 34,
+          "xref": 280,
+          "bbox": [
+            482.4,
+            93.6,
+            691.2,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-053",
+      "file": "images/alvir-ref-053.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "0e832dea53928867bfe974213050e2ea14352e14b1d73c54e02fb31532e35e7a",
+      "decoded_pixel_sha256": "bfb5e5daabc139507a37fa6f459f6cd49ae90fc0412a266c732929606e56e422",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 34,
+          "xref": 281,
+          "bbox": [
+            702.0,
+            93.6,
+            910.8,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-054",
+      "file": "images/alvir-ref-054.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "484cba6449c4f70d78351eaf4b7194581d34201d3e6f0814e1836ebbe462e4a5",
+      "decoded_pixel_sha256": "aea369e3796f80b386b794805e5da4b883ae5beefc2d44d959eb5779c5e51187",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 35,
+          "xref": 291,
+          "bbox": [
+            43.2,
+            93.6,
+            252.0,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-055",
+      "file": "images/alvir-ref-055.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "6f84d86d2e78fd6c518e8a8ad6c8a1b3a4619e547a979f25e32ccd8ca713d5d0",
+      "decoded_pixel_sha256": "19ca5eafc3965fe0c42e5bfd0f4ca1faf48df907779a399ad30156c2555dc354",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 35,
+          "xref": 292,
+          "bbox": [
+            262.8,
+            93.6,
+            471.6,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-056",
+      "file": "images/alvir-ref-056.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "1fd534ed9d0de3c7b75e5dab34f055ef357c8a1beaa3bf75bcaea2a4f529d7c8",
+      "decoded_pixel_sha256": "efa37dd1d75120a2d089ec9b06ae32a477302e90e0272c6f429f611f5c191267",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 35,
+          "xref": 293,
+          "bbox": [
+            482.4,
+            93.6,
+            691.2,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-057",
+      "file": "images/alvir-ref-057.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "1bb8f05aa4223aeb1bacd99eab79fed83acfa200578e30643578fdbc8069e6e7",
+      "decoded_pixel_sha256": "9f1ac499d4579f7978e617cf8e56213b62f46a297d042d4e5dd8aca43966a81c",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 35,
+          "xref": 294,
+          "bbox": [
+            702.0,
+            93.6,
+            910.8,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-058",
+      "file": "images/alvir-ref-058.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "24eaba3098331ce333ab2fa930e104a7165b03abdfa8de46939f12ad58e8b646",
+      "decoded_pixel_sha256": "754009056aea8c93f9dd7701a7811dcdadad50cb487deed88cd3b10a7d13b5e3",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 36,
+          "xref": 304,
+          "bbox": [
+            43.2,
+            93.6,
+            252.0,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-059",
+      "file": "images/alvir-ref-059.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "3e02151754acee7580cb4119fd9dc601e44d2ca02f31a93c1385757bf7132e7e",
+      "decoded_pixel_sha256": "acb19e2e3ee301f943d5acfe835370e61a8c75390c7ff7a9e95947a7d9084209",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 36,
+          "xref": 305,
+          "bbox": [
+            262.8,
+            93.6,
+            471.6,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-060",
+      "file": "images/alvir-ref-060.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "ebd2b69d3bbed349de0f13ad859b637bb1b1e70db170be5d8903aae332732fb0",
+      "decoded_pixel_sha256": "a9fa13de673ba6625474bf5f804baed86d129187916bc486b3af69063fae2a2b",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 36,
+          "xref": 306,
+          "bbox": [
+            482.4,
+            93.6,
+            691.2,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-061",
+      "file": "images/alvir-ref-061.jpeg",
+      "width": 720,
+      "height": 1280,
+      "sha256": "85588eb0cd3de6dbe90918a772c064c80c52ea89ea3743dde7088053313fe8c3",
+      "decoded_pixel_sha256": "d1801e580d0b2a94cff5f3eacd558deb3cec314a9bacb2e2d10034d247da5111",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 36,
+          "xref": 307,
+          "bbox": [
+            702.0,
+            93.6,
+            910.8,
+            465.12
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-062",
+      "file": "images/alvir-ref-062.jpeg",
+      "width": 1179,
+      "height": 1572,
+      "sha256": "c85a53acf127551f12fca5b00ef95c04f13d30c02160ad5f94aeb39f79a9671d",
+      "decoded_pixel_sha256": "d9b7a7b6b2c25b6a25ffe08c6c433e68f4ebed30c20ca29de1d2bb15ada45dff",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 38,
+          "xref": 322,
+          "bbox": [
+            43.2,
+            100.8,
+            252.0,
+            379.2
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-063",
+      "file": "images/alvir-ref-063.jpeg",
+      "width": 1179,
+      "height": 884,
+      "sha256": "04a88fd67fd26ea88192d0352dae2e0a6eeb3a6ae4dfa73b791b8a9fbb84fe8b",
+      "decoded_pixel_sha256": "7735c0cb21378e9099235ae8069c47802dc79f6a7c446c11de61df4ce16a3e2c",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 38,
+          "xref": 323,
+          "bbox": [
+            262.8,
+            100.8,
+            471.6,
+            257.356
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-064",
+      "file": "images/alvir-ref-064.jpeg",
+      "width": 1179,
+      "height": 884,
+      "sha256": "4bf38955561e71de9689578e22b14a71e35a419ae4ca13277e4cacd1c93822e9",
+      "decoded_pixel_sha256": "c87a0f9be8a9a0e61077aad0f94f3bed57609c9e78c11d3d989c681748739e1f",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 38,
+          "xref": 324,
+          "bbox": [
+            482.4,
+            100.8,
+            691.2,
+            257.356
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-065",
+      "file": "images/alvir-ref-065.jpeg",
+      "width": 1179,
+      "height": 1572,
+      "sha256": "780c4e44eaf30224266270a7bdce9b2b0438e448a98a2c5d18b23205f91cb12d",
+      "decoded_pixel_sha256": "83ea04e7776f4503824151eda90f59ec2ad9513a00e94a098d28bb15cbfa7d7f",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 38,
+          "xref": 325,
+          "bbox": [
+            702.0,
+            100.8,
+            910.8,
+            379.2
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-066",
+      "file": "images/alvir-ref-066.jpeg",
+      "width": 1179,
+      "height": 1572,
+      "sha256": "df2c8d563a2e4733e9950e04e5ac1cbf0e096ec108c0b6e72c3bf67ad56a03fc",
+      "decoded_pixel_sha256": "79fa65534c41789c42230026c3c33a65acfa400fa17b9acad9ea010ee91e732d",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 39,
+          "xref": 335,
+          "bbox": [
+            43.2,
+            100.8,
+            252.0,
+            379.2
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-067",
+      "file": "images/alvir-ref-067.jpeg",
+      "width": 1179,
+      "height": 1572,
+      "sha256": "e29cdcced31f6bb7c76d1d87fa689084d2e9ca04f04164550274b416b67d98d0",
+      "decoded_pixel_sha256": "f017f9b6a44a21b251186cb9bb1bc609fb2497c4e8a4c4d7674987268e288c78",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 39,
+          "xref": 336,
+          "bbox": [
+            262.8,
+            100.8,
+            471.6,
+            379.2
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-068",
+      "file": "images/alvir-ref-068.jpeg",
+      "width": 1179,
+      "height": 1572,
+      "sha256": "50ec85eebec23a25f207c8e71cb4ba2c37a181ecff5c95170a878716986e88b6",
+      "decoded_pixel_sha256": "80fa4123ec0a4582e4ccc1537611c371cf0fd781811fd114b68fa6f23d608281",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 39,
+          "xref": 337,
+          "bbox": [
+            482.4,
+            100.8,
+            691.2,
+            379.2
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-069",
+      "file": "images/alvir-ref-069.jpeg",
+      "width": 1179,
+      "height": 1572,
+      "sha256": "c9a97ca52f1c1c430f52d79f61cbc804497e0b1fcb042c023cd347783b18b674",
+      "decoded_pixel_sha256": "11ff1a9bd58a61355a8cdae77a50c50ac4c543980a5abf9d5accdcae19235dcd",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 39,
+          "xref": 338,
+          "bbox": [
+            702.0,
+            100.8,
+            910.8,
+            379.2
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-070",
+      "file": "images/alvir-ref-070.jpeg",
+      "width": 1179,
+      "height": 1572,
+      "sha256": "e2f87505f45704668a6baabc13cfdd3b3b843642e1fc3bc588a3c24a9abdbcc5",
+      "decoded_pixel_sha256": "16c49e9a433808d40d995214b4290ef1c9854b77c4f0026e163871cd7bdae2e2",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 40,
+          "xref": 348,
+          "bbox": [
+            43.2,
+            100.8,
+            252.0,
+            379.2
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-071",
+      "file": "images/alvir-ref-071.jpeg",
+      "width": 1179,
+      "height": 1572,
+      "sha256": "2303d6acd77af6fdb4ba48daf4333f195b26ea20532775484fcefea2a8a6a670",
+      "decoded_pixel_sha256": "39fc5b7bfda260dd6fb16718210ddd32bcdd332acc511f9659fc1d96637ec554",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 40,
+          "xref": 349,
+          "bbox": [
+            262.8,
+            100.8,
+            471.6,
+            379.2
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-072",
+      "file": "images/alvir-ref-072.jpeg",
+      "width": 1179,
+      "height": 884,
+      "sha256": "093185209a2bdd7aef4478479fefed6f9a6036aa6b2effd24f777a8e1a2f4d24",
+      "decoded_pixel_sha256": "611a1f93e32e06819714d7e4e322e1c5c29e9838a4c856b482cc88ee6ae94cbc",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 41,
+          "xref": 357,
+          "bbox": [
+            43.2,
+            100.8,
+            252.0,
+            257.356
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "supporting landscape or architectural context",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-073",
+      "file": "images/alvir-ref-073.jpeg",
+      "width": 1179,
+      "height": 884,
+      "sha256": "c32a6f66bd50d18be68799f237bac90a4f3dd84b3dec7cb022c3e74309fb1ff1",
+      "decoded_pixel_sha256": "2ba25c681354c9fdc30ec1605263b4a5344b384b3e03489415f170c6bf427abc",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 41,
+          "xref": 358,
+          "bbox": [
+            262.8,
+            100.8,
+            471.6,
+            257.356
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-074",
+      "file": "images/alvir-ref-074.jpeg",
+      "width": 1179,
+      "height": 884,
+      "sha256": "7605d57531dd30c14cb016370973eada0d8c390d3f1e19744b8edb82d6703285",
+      "decoded_pixel_sha256": "36d0dfbe036025278402dc9581b8c0930945ae5e99791f56187917d2a4b9e260",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 41,
+          "xref": 359,
+          "bbox": [
+            482.4,
+            100.8,
+            691.2,
+            257.356
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    },
+    {
+      "id": "alvir-ref-075",
+      "file": "images/alvir-ref-075.jpeg",
+      "width": 1179,
+      "height": 1572,
+      "sha256": "60b01d64ee54f54766e2d23f000bc5c2bed128685f2c74fbe42b279388b5ace3",
+      "decoded_pixel_sha256": "8a1c3d4632e0ecc336b8b553288b8c005ca7fb158bbd810077b9704b1eda619b",
+      "extraction": "original embedded bytes",
+      "occurrences": [
+        {
+          "page": 41,
+          "xref": 360,
+          "bbox": [
+            702.0,
+            100.8,
+            910.8,
+            379.2
+          ]
+        }
+      ],
+      "evidence_status": "user-supplied reference; location/date not independently verified",
+      "theme_role": "priority material / mixed architecture / lane reference",
+      "capture_date": "unknown; PDF states date sent, not date photographed",
+      "building_match": "none established"
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "text": "Alvir: A 3D Model Project\nBuilt from @alvir_channel on Instagram — Alvir village, Kharqan, Zarandiyeh, Markazi Province, Iran\n3D render: AI-generated visualisation based on the aerial view of Alvir — not a surveyed model. See slide 7.\n",
+      "images": [
+        "alvir-ref-001"
+      ]
+    },
+    {
+      "page": 2,
+      "text": "Where Alvir is\n• Village and capital of Alvir Rural District, Kharqan District, Zarandiyeh County, Markazi Province, Iran\n• Coordinates: 35.38667° N, 50.00222° E\n• Elevation: about 1,798 m\n• Population: 578 (2016 census)\n• Near Saveh; the channel calls it the largest gathering of Alviris online\nSources: Wikipedia / Wikidata — Alvir; @alvir_channel bio\n",
+      "images": []
+    },
+    {
+      "page": 3,
+      "text": "What the channel actually gives us\n• 43 posts by @alvir_channel in the latest batch (8,259 followers)\n• Mostly video: 33 videos, plus carousels and a few still photos\n• Best for a model: the April 2023 aerial video, the April 2025 spring carousel, and festival / landmark posts\n• Most posts are single viewpoints — people, ceremonies, music — not a survey of the village\n• No camera data, GPS, or overlap information comes with the posts\nSource: @alvir_channel posts, fetched 16 Nov 2026\n",
+      "images": []
+    },
+    {
+      "page": 4,
+      "text": "Best overhead view — aerial video, April 2023\n• Drone video, 30 April 2023 — 732 likes, 30 comments\n• What the frame shows: dense houses, mostly flat grey roofs with \nscattered red and blue roofs\n• A modern white house with a red roof, lower centre; a bare rocky mound \nto its right\n• Green trees in the lower-left foreground; dry brown hills rising behind the \nvillage\n• Drone: Masoud Hamami. Edit: Rasoul Zaqar\nAerial reference view of a village in this region (IRIB Markazi).\nSource: instagram.com/tv/Crpr20kgWhc/ — @alvir_channel; image: markazi.irib-news.ir\n",
+      "images": [
+        "alvir-ref-002"
+      ]
+    },
+    {
+      "page": 5,
+      "text": "Spring and terrain — April 2025\n• Carousel, 20 April 2025 — 717 likes, 6 comments, location: Alvir\n• First frame: a large bare-branched tree, green grass field in front\n• Smaller bare and blossoming trees in the middle distance\n• A few houses, including a reddish-brown house, at the foot of a dry \nbrown hill\n• Early spring, before full leaf-out — useful for terrain and tree cover\nLandscape around Alvir (alvir.org).\nSource: instagram.com/p/DIqr12uRfZ-/ — @alvir_channel; image: aftab.cc, Alvir Village\n",
+      "images": [
+        "alvir-ref-003"
+      ]
+    },
+    {
+      "page": 6,
+      "text": "Landmarks to model\n• Afshan Park — kite festival site (26 Shahrivar), bazaar and cultural-art \ncompetitions\n• The ancient tree — a centuries-old tree in the historic village, Aug 2025 \nvideo\n• Village centre and rooftops — the aerial frame is the best layout \nreference\n• Kite festival poster, 28 Aug 2026 — 308 likes; labelled AI content on \nInstagram\n• Local life: Tati-language podcast, Halay dance, Muharram ceremonies\nTraditional mud-brick lane in Alvir. Photo: Hamid Aghamohammadi.\nSources: instagram.com/p/DclT_tUA4oI/ and instagram.com/reel/DNK9aREMj7A/ — @alvir_channel\n",
+      "images": [
+        "alvir-ref-004"
+      ]
+    },
+    {
+      "page": 7,
+      "text": "Why this is not yet a true 3D mesh\n• Instagram posts are compressed, single-viewpoint videos and photos\n• No overlapping drone grid: photogrammetry needs 70–80% overlap between shots\n• No camera position, GPS, or altitude data in the posts\n• Thumbnails are about 1080 px — too low for fine detail\n• So this deck is a visual reconstruction brief, not a measured 3D model\nHonest limit — do not present the images as a surveyed model\n",
+      "images": []
+    },
+    {
+      "page": 8,
+      "text": "How to get a real 3D model\n• Fly a drone grid over the village: nadir (straight down) plus oblique shots, 70–80% overlap\n• Cover the rooftops, the rocky mound, Afshan Park, and the ancient tree\n• Add ground control points with GPS, and note the 1,798 m elevation\n• Process in photogrammetry software (e.g. OpenDroneMap, Metashape, or RealityCapture)\n• Use the Instagram aerial video as the flight-planning reference, not the source data\nNext step: a drone survey — the Instagram images alone cannot build the mesh\n",
+      "images": []
+    },
+    {
+      "page": 9,
+      "text": "Photo gallery — Alvir in pictures\n40 photos embedded in the next 10 slides, 4 per slide.\n• 35 photos from the Alvir.org gallery (aftab.cc)\n• Alvir Historic Castle — itto.org\n• Historic mound — kojaro\n• Plus the traditional lane and the aerial reference already in this deck\nAll of these were downloaded and checked by looking at them. Photos that could not be verified as Alvir were left out.\nSources: alvir.org via aftab.cc, itto.org, kojaro\n",
+      "images": []
+    },
+    {
+      "page": 10,
+      "text": "Gallery 1 of 10 — photos 1–4 of 40\nAlvir.org photo 10\nAlvir.org photo 11\nAlvir.org photo 12\nAlvir.org photo 13\nThese are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram \nblocks direct downloads — so the 100 Instagram images are listed with links in the next section.\n",
+      "images": [
+        "alvir-ref-005",
+        "alvir-ref-006",
+        "alvir-ref-007",
+        "alvir-ref-008"
+      ]
+    },
+    {
+      "page": 11,
+      "text": "Gallery 2 of 10 — photos 5–8 of 40\nAlvir.org photo 14\nAlvir.org photo 15\nAlvir.org photo 16\nAlvir.org photo 17\nThese are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram \nblocks direct downloads — so the 100 Instagram images are listed with links in the next section.\n",
+      "images": [
+        "alvir-ref-009",
+        "alvir-ref-010",
+        "alvir-ref-011",
+        "alvir-ref-012"
+      ]
+    },
+    {
+      "page": 12,
+      "text": "Gallery 3 of 10 — photos 9–12 of 40\nAlvir.org photo 18\nAlvir.org photo 19\nAlvir.org photo 20\nAlvir.org photo 21\nThese are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram \nblocks direct downloads — so the 100 Instagram images are listed with links in the next section.\n",
+      "images": [
+        "alvir-ref-013",
+        "alvir-ref-014",
+        "alvir-ref-015",
+        "alvir-ref-016"
+      ]
+    },
+    {
+      "page": 13,
+      "text": "Gallery 4 of 10 — photos 13–16 of 40\nAlvir.org photo 22\nAlvir.org photo 23\nAlvir.org photo 24\nAlvir.org photo 25\nThese are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram \nblocks direct downloads — so the 100 Instagram images are listed with links in the next section.\n",
+      "images": [
+        "alvir-ref-017",
+        "alvir-ref-018",
+        "alvir-ref-019",
+        "alvir-ref-020"
+      ]
+    },
+    {
+      "page": 14,
+      "text": "Gallery 5 of 10 — photos 17–20 of 40\nAlvir.org photo 26\nAlvir.org photo 27\nAlvir.org photo 28\nAlvir.org photo 29\nThese are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram \nblocks direct downloads — so the 100 Instagram images are listed with links in the next section.\n",
+      "images": [
+        "alvir-ref-021",
+        "alvir-ref-022",
+        "alvir-ref-023",
+        "alvir-ref-024"
+      ]
+    },
+    {
+      "page": 15,
+      "text": "Gallery 6 of 10 — photos 21–24 of 40\nAlvir.org photo 30\nAlvir.org photo 31\nAlvir.org photo 32\nAlvir.org photo 33\nThese are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram \nblocks direct downloads — so the 100 Instagram images are listed with links in the next section.\n",
+      "images": [
+        "alvir-ref-025",
+        "alvir-ref-026",
+        "alvir-ref-027",
+        "alvir-ref-028"
+      ]
+    },
+    {
+      "page": 16,
+      "text": "Gallery 7 of 10 — photos 25–28 of 40\nAlvir.org photo 34\nAlvir.org photo 35\nAlvir.org photo 36\nAlvir.org photo 37\nThese are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram \nblocks direct downloads — so the 100 Instagram images are listed with links in the next section.\n",
+      "images": [
+        "alvir-ref-029",
+        "alvir-ref-030",
+        "alvir-ref-031",
+        "alvir-ref-032"
+      ]
+    },
+    {
+      "page": 17,
+      "text": "Gallery 8 of 10 — photos 29–32 of 40\nAlvir.org photo 38\nAlvir.org photo 39\nAlvir.org photo 40\nAlvir.org photo 41\nThese are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram \nblocks direct downloads — so the 100 Instagram images are listed with links in the next section.\n",
+      "images": [
+        "alvir-ref-033",
+        "alvir-ref-034",
+        "alvir-ref-003",
+        "alvir-ref-035"
+      ]
+    },
+    {
+      "page": 18,
+      "text": "Gallery 9 of 10 — photos 33–36 of 40\nAlvir.org photo 42\nAlvir.org photo 43\nAlvir.org photo 44\nAlvir Historic Castle (itto.org)\nThese are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram \nblocks direct downloads — so the 100 Instagram images are listed with links in the next section.\n",
+      "images": [
+        "alvir-ref-036",
+        "alvir-ref-037",
+        "alvir-ref-038",
+        "alvir-ref-039"
+      ]
+    },
+    {
+      "page": 19,
+      "text": "Gallery 10 of 10 — photos 37–40 of 40\nCastle tower, Alvir (itto.org)\nHistoric mound, Alvir (kojaro)\nTraditional lane (H. Aghamohammadi)\nAerial reference (IRIB Markazi)\nThese are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram \nblocks direct downloads — so the 100 Instagram images are listed with links in the next section.\n",
+      "images": [
+        "alvir-ref-040",
+        "alvir-ref-041",
+        "alvir-ref-004",
+        "alvir-ref-002"
+      ]
+    },
+    {
+      "page": 20,
+      "text": "Instagram — 100 images from @alvir_channel\nThe next 10 slides list 100 Instagram posts, 10 per slide, newest first.\nEach entry is one image (a photo, a carousel of several photos, or a video frame) with its date, type, topic, and link — tap the link to \nopen the image on Instagram.\nInstagram blocks direct downloads, so these are linked, not embedded. The full list of 142 channel posts is in \nalvir-instagram-images.md.\nSource: @alvir_channel, collected 16 Nov 2026\n",
+      "images": []
+    },
+    {
+      "page": 21,
+      "text": "Instagram 1–10 of 100\n2026-11-11 — video — Village post — 566 likes\n    https://www.instagram.com/reel/DfmQfrwv76a/\n2026-10-18 — video — Village post — 975 likes\n    https://www.instagram.com/reel/DeqowibgCdx/\n2026-10-10 — video — Local food — 567 likes\n    https://www.instagram.com/reel/DeU39xrRsWR/\n2026-10-09 — video — Podcast / Tati — 304 likes\n    https://www.instagram.com/reel/DeSGQWzAIzb/\n2026-10-04 — video — Local bread — 697 likes\n    https://www.instagram.com/reel/DeEtSi-g_C_/\n2026-10-01 — video — Festival — 451 likes\n    https://www.instagram.com/reel/Dd9bVDoguL1/\n2026-10-01 — video — Festival — 862 likes\n    https://www.instagram.com/reel/Dd9Bzb1x6hX/\n2026-09-17 — video — Kite festival — 1434 likes\n    https://www.instagram.com/reel/DdZ0K91ARNS/\n2026-09-17 — video — Kite festival — 1385 likes\n    https://www.instagram.com/reel/DdZjDqExnwl/\n2026-08-28 — image — Kite festival — 308 likes\n    https://www.instagram.com/p/DclT_tUA4oI/\nOpen the links on Instagram to see each image.\n",
+      "images": []
+    },
+    {
+      "page": 22,
+      "text": "Instagram 11–20 of 100\n2026-08-21 — carousel — Houses — 409 likes\n    https://www.instagram.com/p/DcTxSqfgMVr/\n2026-06-24 — carousel — Taazieh — 417 likes\n    https://www.instagram.com/p/DZ9nT_8EY2U/\n2026-06-21 — video — Taazieh — 254 likes\n    https://www.instagram.com/reel/DZ19-63Tq-V/\n2026-06-19 — video — Taazieh — 477 likes\n    https://www.instagram.com/reel/DZxTRd3t3Se/\n2025-12-20 — video — Houses — 603 likes\n    https://www.instagram.com/reel/DSfqhLEDFjF/\n2025-09-15 — video — Music — 875 likes\n    https://www.instagram.com/reel/DOnRPjrjN5I/\n2025-08-10 — video — Nature — 655 likes\n    https://www.instagram.com/reel/DNK9aREMj7A/\n2025-07-15 — image — Houses — 511 likes\n    https://www.instagram.com/p/DMH_GyKttqq/\n2025-07-14 — carousel — Taazieh — 610 likes\n    https://www.instagram.com/p/DMGBEyvt7NV/\n2025-07-08 — video — Muharram — 444 likes\n    https://www.instagram.com/reel/DL3ERbKzij5/\nOpen the links on Instagram to see each image.\n",
+      "images": []
+    },
+    {
+      "page": 23,
+      "text": "Instagram 21–30 of 100\n2025-07-06 — video — Muharram — 602 likes\n    https://www.instagram.com/reel/DLxoE5rSZwW/\n2025-07-06 — video — Muharram — 404 likes\n    https://www.instagram.com/reel/DLxYuR7yWKk/\n2025-07-05 — video — Ashura — 469 likes\n    https://www.instagram.com/reel/DLuSCJzRgU9/\n2025-06-01 — video — Local bread — 707 likes\n    https://www.instagram.com/reel/DKWepKeA9_I/\n2025-04-20 — carousel — Spring — 717 likes\n    https://www.instagram.com/p/DIqr12uRfZ-/\n2025-04-16 — video — Houses — 236 likes\n    https://www.instagram.com/reel/DIgRAcJxDv7/\n2025-04-09 — video — Documentary — 734 likes\n    https://www.instagram.com/reel/DIPPcegxn2y/\n2024-10-12 — image — Village post — 794 likes\n    https://www.instagram.com/p/DBCZeBiNYni/\n2024-07-17 — carousel — Taazieh — 771 likes\n    https://www.instagram.com/p/C9g_HAPNFWt/\n2024-02-24 — image — Spring — 749 likes\n    https://www.instagram.com/p/C3u4ojWrTDI/\nOpen the links on Instagram to see each image.\n",
+      "images": []
+    },
+    {
+      "page": 24,
+      "text": "Instagram 31–40 of 100\n2023-09-15 — image — Summer — 780 likes\n    https://www.instagram.com/p/CxOOH01NlqM/\n2023-09-10 — image — Kite festival — 397 likes\n    https://www.instagram.com/p/CxAJvXCtQqF/\n2023-07-28 — carousel — Taazieh — 607 likes\n    https://www.instagram.com/p/CvQHkkDN_6_/\n2023-07-28 — carousel — Taazieh — 784 likes\n    https://www.instagram.com/p/CvQE-uwN00j/\n2023-04-30 — video — Spring — 732 likes\n    https://www.instagram.com/tv/Crpr20kgWhc/\n2023-04-24 — video — Spring — 701 likes\n    https://www.instagram.com/tv/Crax--qLkJs/\n2022-08-10 — carousel — Taazieh — 680 likes\n    https://www.instagram.com/p/ChGKYnDrPA-/\n2022-08-10 — carousel — Taazieh — 504 likes\n    https://www.instagram.com/p/ChGEOeNuIl8/\n2022-08-10 — carousel — Muharram — 694 likes\n    https://www.instagram.com/p/ChF6MZcNvZq/\n2022-05-24 — video — Nature — 518 likes\n    https://www.instagram.com/tv/Cd86tfuj_lc/\nOpen the links on Instagram to see each image.\n",
+      "images": []
+    },
+    {
+      "page": 25,
+      "text": "Instagram 41–50 of 100\n2022-05-19 — video — Spring — 565 likes\n    https://www.instagram.com/p/CdvpKFQj_Mf/\n2022-03-20 — video — Spring — 365 likes\n    https://www.instagram.com/p/CbVK592Dla5/\n2022-03-18 — carousel — Local bread — 677 likes\n    https://www.instagram.com/p/CbPTw3FO9qR/\n2022-02-04 — carousel — Houses — 767 likes\n    https://www.instagram.com/p/CZj8HFHrAOF/\n2022-01-06 — video — Village post — 311 likes\n    https://www.instagram.com/tv/CYZR2VRJHG0/\n2021-11-08 — carousel — Autumn — 730 likes\n    https://www.instagram.com/p/CWAlA2ltaMR/\n2021-11-04 — image — Autumn — 677 likes\n    https://www.instagram.com/p/CV2jGN-twcw/\n2021-10-29 — video — Autumn — 626 likes\n    https://www.instagram.com/p/CVnldKcD_Bu/\n2021-09-18 — image — Houses — 1050 likes\n    https://www.instagram.com/p/CT-CTOXtrCB/\n2021-08-26 — image — Summer — 660 likes\n    https://www.instagram.com/p/CTCc9ccLv22/\nOpen the links on Instagram to see each image.\n",
+      "images": []
+    },
+    {
+      "page": 26,
+      "text": "Instagram 51–60 of 100\n2021-08-10 — video — Muharram — 599 likes\n    https://www.instagram.com/tv/CSZgNGLjCND/\n2021-08-02 — carousel — Summer — 509 likes\n    https://www.instagram.com/p/CSEc9gENwdV/\n2021-07-23 — carousel — Tree — 625 likes\n    https://www.instagram.com/p/CRshOi_hHPc/\n2021-07-14 — video — Village post — 493 likes\n    https://www.instagram.com/p/CRUFLERBmo1/\n2021-06-24 — video — Documentary — 365 likes\n    https://www.instagram.com/tv/CQfsKP6hGGy/\n2021-06-20 — video — Nature — 351 likes\n    https://www.instagram.com/tv/CQWChmqBMYZ/\n2021-05-23 — carousel — Village post — 926 likes\n    https://www.instagram.com/p/CPOX4cABUxs/\n2021-05-09 — video — Documentary — 505 likes\n    https://www.instagram.com/tv/COqMOnQBrVp/\n2021-05-06 — video — Spring — 605 likes\n    https://www.instagram.com/p/COh7a4BB3Rp/\n2021-04-25 — video — Spring — 442 likes\n    https://www.instagram.com/tv/COGj7P-Bbey/\nOpen the links on Instagram to see each image.\n",
+      "images": []
+    },
+    {
+      "page": 27,
+      "text": "Instagram 61–70 of 100\n2021-04-24 — image — Village post — 1057 likes\n    https://www.instagram.com/p/CODl3A2B-7M/\n2021-04-15 — carousel — Spring — 602 likes\n    https://www.instagram.com/p/CNsaCkVhEJS/\n2021-04-02 — carousel — Spring — 793 likes\n    https://www.instagram.com/p/CNLArmfByBw/\n2021-03-31 — carousel — Village post — 583 likes\n    https://www.instagram.com/p/CNF4rNFh8Xx/\n2021-03-25 — video — Spring — 1061 likes\n    https://www.instagram.com/p/CM2dhc8BjJK/\n2021-03-20 — image — Spring — 512 likes\n    https://www.instagram.com/p/CMoqkV4B0rS/\n2021-03-17 — image — Spring — 605 likes\n    https://www.instagram.com/p/CMg9UtyBRzi/\n2021-02-14 — carousel — Documentary — 771 likes\n    https://www.instagram.com/p/CLRrg7QBoE4/\n2021-02-04 — video — Nature — 88 likes\n    https://www.instagram.com/p/CK3hTSgB52M/\n2021-01-21 — carousel — Winter — 826 likes\n    https://www.instagram.com/p/CKUVdglBjaj/\nOpen the links on Instagram to see each image.\n",
+      "images": []
+    },
+    {
+      "page": 28,
+      "text": "Instagram 71–80 of 100\n2021-01-19 — video — Winter — 506 likes\n    https://www.instagram.com/tv/CKOVsm1hjjH/\n2020-12-13 — video — Winter — 585 likes\n    https://www.instagram.com/tv/CIvzlNShSe8/\n2020-11-18 — video — Autumn — 562 likes\n    https://www.instagram.com/p/CHu9FjLJH9q/\n2020-11-15 — video — Autumn — 664 likes\n    https://www.instagram.com/p/CHm5JKahzZb/\n2020-11-05 — video — Autumn — 604 likes\n    https://www.instagram.com/p/CHNF8l5huXm/\n2020-10-30 — video — Autumn — 574 likes\n    https://www.instagram.com/p/CG-ZMvEByHd/\n2020-09-22 — carousel — Autumn — 692 likes\n    https://www.instagram.com/p/CFcILq9hmz1/\n2020-09-20 — video — Muharram — 559 likes\n    https://www.instagram.com/p/CFWkhIihPrd/\n2020-09-09 — video — Muharram — 694 likes\n    https://www.instagram.com/p/CE6YlaIBOkL/\n2020-08-15 — carousel — Local bread — 768 likes\n    https://www.instagram.com/p/CD6Ur4ThK0B/\nOpen the links on Instagram to see each image.\n",
+      "images": []
+    },
+    {
+      "page": 29,
+      "text": "Instagram 81–90 of 100\n2020-08-06 — video — Village post — 448 likes\n    https://www.instagram.com/tv/CDi8KwFBgVu/\n2020-06-21 — carousel — Spring — 687 likes\n    https://www.instagram.com/p/CBsf1MLBjTO/\n2020-06-18 — video — Village post — 622 likes\n    https://www.instagram.com/p/CBkvv0_hL9M/\n2020-05-21 — image — Spring — 615 likes\n    https://www.instagram.com/p/CAcpcWahgL8/\n2020-05-09 — image — Spring — 616 likes\n    https://www.instagram.com/p/B_-xwS4hxe9/\n2020-05-02 — carousel — Spring — 643 likes\n    https://www.instagram.com/p/B_ryKkjBh8t/\n2020-04-24 — image — Spring — 730 likes\n    https://www.instagram.com/p/B_XJHDSBSc4/\n2020-04-19 — video — Spring — 586 likes\n    https://www.instagram.com/p/B_KbC5YhyoB/\n2020-04-14 — carousel — Village post — 772 likes\n    https://www.instagram.com/p/B--KRZbBpY3/\n2020-04-13 — image — Spring — 753 likes\n    https://www.instagram.com/p/B-66oImh1ub/\nOpen the links on Instagram to see each image.\n",
+      "images": []
+    },
+    {
+      "page": 30,
+      "text": "Instagram 91–100 of 100\n2020-04-08 — image — Spring — 603 likes\n    https://www.instagram.com/p/B-uISdlB9qv/\n2020-04-06 — image — Spring — 539 likes\n    https://www.instagram.com/p/B-pWnpSBBwT/\n2020-04-06 — image — Spring — 690 likes\n    https://www.instagram.com/p/B-pV-TKBRVw/\n2020-04-06 — image — Spring — 607 likes\n    https://www.instagram.com/p/B-pVSemh_CF/\n2020-04-04 — carousel — Spring — 651 likes\n    https://www.instagram.com/p/B-joY08hTOg/\n2020-03-27 — carousel — Spring — 725 likes\n    https://www.instagram.com/p/B-PmZ35hUyo/\n2020-03-27 — image — Spring — 752 likes\n    https://www.instagram.com/p/B-PHnBmBVCu/\n2020-03-19 — carousel — Spring — 636 likes\n    https://www.instagram.com/p/B966wW1BSDV/\n2020-03-10 — video — Documentary — 459 likes\n    https://www.instagram.com/tv/B9j7opoBHMe/\n2020-03-10 — video — Documentary — 422 likes\n    https://www.instagram.com/tv/B9j55oLBWHh/\nOpen the links on Instagram to see each image.\n",
+      "images": []
+    },
+    {
+      "page": 31,
+      "text": "Reel snapshots — Alvir, September 2026\n20 snapshots taken throughout a 2-minute 19-second reel about Alvir, one about every 7 seconds, from the start to the end.\n• Reel: @amlakshahrah (Shahrah real estate), posted 27 September 2026 — 1,253 likes, 216 comments\n• Caption: “Alvir is not just a village, history flows through it” — one of the most beautiful villages in Kharqan, Zarandieh, about 140 \nkm from Tehran, good climate, old, warm and authentic people\n• The reel is a property promo: it invites viewers to comment “Alvir” if they want land, a garden, or a villa there\n• Frames show the presenter in the village, village streets, houses, and a tiled historic interior\nSource: instagram.com/reel/DdzWEMlxH_U/ — @amlakshahrah\n",
+      "images": []
+    },
+    {
+      "page": 32,
+      "text": "Reel snapshots 1–4 of 20\nSnapshot 1 — 4s\nSnapshot 2 — 10s\nSnapshot 3 — 17s\nSnapshot 4 — 24s\nSource: instagram.com/reel/DdzWEMlxH_U/ — @amlakshahrah, 27 Sep 2026\n",
+      "images": [
+        "alvir-ref-042",
+        "alvir-ref-043",
+        "alvir-ref-044",
+        "alvir-ref-045"
+      ]
+    },
+    {
+      "page": 33,
+      "text": "Reel snapshots 5–8 of 20\nSnapshot 5 — 31s\nSnapshot 6 — 38s\nSnapshot 7 — 45s\nSnapshot 8 — 52s\nSource: instagram.com/reel/DdzWEMlxH_U/ — @amlakshahrah, 27 Sep 2026\n",
+      "images": [
+        "alvir-ref-046",
+        "alvir-ref-047",
+        "alvir-ref-048",
+        "alvir-ref-049"
+      ]
+    },
+    {
+      "page": 34,
+      "text": "Reel snapshots 9–12 of 20\nSnapshot 9 — 59s\nSnapshot 10 — 66s\nSnapshot 11 — 73s\nSnapshot 12 — 80s\nSource: instagram.com/reel/DdzWEMlxH_U/ — @amlakshahrah, 27 Sep 2026\n",
+      "images": [
+        "alvir-ref-050",
+        "alvir-ref-051",
+        "alvir-ref-052",
+        "alvir-ref-053"
+      ]
+    },
+    {
+      "page": 35,
+      "text": "Reel snapshots 13–16 of 20\nSnapshot 13 — 87s\nSnapshot 14 — 94s\nSnapshot 15 — 101s\nSnapshot 16 — 108s\nSource: instagram.com/reel/DdzWEMlxH_U/ — @amlakshahrah, 27 Sep 2026\n",
+      "images": [
+        "alvir-ref-054",
+        "alvir-ref-055",
+        "alvir-ref-056",
+        "alvir-ref-057"
+      ]
+    },
+    {
+      "page": 36,
+      "text": "Reel snapshots 17–20 of 20\nSnapshot 17 — 115s\nSnapshot 18 — 122s\nSnapshot 19 — 129s\nSnapshot 20 — 136s\nSource: instagram.com/reel/DdzWEMlxH_U/ — @amlakshahrah, 27 Sep 2026\n",
+      "images": [
+        "alvir-ref-058",
+        "alvir-ref-059",
+        "alvir-ref-060",
+        "alvir-ref-061"
+      ]
+    },
+    {
+      "page": 37,
+      "text": "Your photos from Alvir\n14 photos you sent on 16 November 2026, added as they are.\n• The mosque with the green dome, and the memorial plaque in front of it — Haj Hamzeh Naderipour\n• The dry hills, dirt lanes, and old mud-brick houses and walls\n• The old trees behind the mud walls\n• You and a woman with a villager riding a donkey loaded with greens\nPhotos: Shawheen Naderi, sent 16 Nov 2026\n",
+      "images": []
+    },
+    {
+      "page": 38,
+      "text": "Your photos 1–4 of 14\nMosque with green dome, Alvir\nDry hills above the village\nMemorial plaque — Haj Hamzeh \nNaderipour\nOld tree behind a mud-brick wall\nPhotos: Shawheen Naderi, sent 16 Nov 2026\n",
+      "images": [
+        "alvir-ref-062",
+        "alvir-ref-063",
+        "alvir-ref-064",
+        "alvir-ref-065"
+      ]
+    },
+    {
+      "page": 39,
+      "text": "Your photos 5–8 of 14\nOld tree and mud wall, another view\nMud-brick house with green door\nDirt lane between mud walls\nOld mud-brick house, wooden door\nPhotos: Shawheen Naderi, sent 16 Nov 2026\n",
+      "images": [
+        "alvir-ref-066",
+        "alvir-ref-067",
+        "alvir-ref-068",
+        "alvir-ref-069"
+      ]
+    },
+    {
+      "page": 40,
+      "text": "Your photos 9–10 of 14\nYou with a villager on a donkey loaded with \ngreens\nSame moment — the donkey grazing\nPhotos: Shawheen Naderi, sent 16 Nov 2026\n",
+      "images": [
+        "alvir-ref-070",
+        "alvir-ref-071"
+      ]
+    },
+    {
+      "page": 41,
+      "text": "Your photos 11–14 of 14\nA woman with the villager on his donkey, \nmosque behind\nShaded dirt lane between walls\nMud-brick building under a big tree\nOld gate under a walnut tree\nPhotos: Shawheen Naderi, sent 16 Nov 2026\n",
+      "images": [
+        "alvir-ref-072",
+        "alvir-ref-073",
+        "alvir-ref-074",
+        "alvir-ref-075"
+      ]
+    }
+  ],
+  "review_summary": {
+    "unique_images": 75,
+    "ai_illustrations_excluded": 1,
+    "photographic_images_and_video_stills": 74,
+    "verified_building_matches": 0,
+    "instagram_link_leads": 100,
+    "material_scope": "Use priority photos for visual character. Layout and individual building identity remain unverified."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "result": "passed",
+  "materials_changed": [
+    "Rammed earth \u00b7 weathered clay",
+    "Warm lime render",
+    "Modern pale plaster",
+    "Weathered wooden gates",
+    "Painted grey steel frames",
+    "Faded turquoise painted doors",
+    "Worn village road surface",
+    "Corrugated roof \u00b7 galvanized",
+    "Corrugated roof \u00b7 blue_metal",
+    "Corrugated roof \u00b7 red_metal",
+    "Exposed ochre brick",
+    "Orchard foliage 0",
+    "Orchard foliage 1",
+    "Orchard foliage 2",
+    "Orchard foliage 3",
+    "Orchard foliage 4"
+  ],
+  "geometry_unchanged": true,
+  "geometry_sha256": "63960f0dd025a6125aa01a6be129519a9536834d15bd25b019f0d578f9ba954c",
+  "all_textures_packed": true,
+  "theme_sha256": "74e02ab4dde7798c20f36b378b988215a1e359ccb029747cdd7cd16d7ccc9398",
+  "output": "output/alvir_reference_theme.blend",
+  "output_sha256": "a7704404fbc20641df385717795db934000a793ff65119b6879ece444331bf49",
+  "note": "Material study only; no photographic registration or geometry accuracy improvement claimed.",
+  "saved_file_reopened": true,
+  "animation_frames": 2160,
+  "fps": 24,
+  "cameras": 5
+}

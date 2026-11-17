@@ -1,0 +1,133 @@
+ALVIR WALKTHROUGH — V100 SERVER HANDOFF
+
+USER REQUEST
+Make a high-resolution walkthrough of our Alvir village model with classical
+Iranian music. Requested duration: 1.5 minutes (90 seconds). The user has a
+server with V100 GPUs and intends to continue with Codex there. GPU count,
+server OS and access details have not yet been supplied.
+
+DELIVERABLE
+Native 3840 x 2160, 24 fps, 2160 frames, H.264 MP4 with stereo AAC audio.
+10 s aerial introduction, three 22 s pedestrian shots, 14 s orchard aerial.
+Music: a licensed 90 s solo setar excerpt by Alireza Farrokhzadi, published
+by sonsbcnintercultural, Freesound 256120, CC BY 3.0. Credits are included.
+
+CURRENT STATE — PHOTO-INFORMED THEME EDITION
+The complete animation with the photographic material study is saved and all textures are packed:
+  alvir/output/alvir_walkthrough.blend
+The model has 474 mapped building footprints, mapped roads and DEM terrain.
+Heights, facades and planting are estimates. Do not claim photographic or
+survey accuracy. The camera paths passed geometry-intersection and 35 cm
+clearance-ray checks. Midpoint previews were visually checked.
+
+The user explicitly asked to stop the Mac render and hand off to this
+V100 server. The Mac Blender renderer and automatic encoding monitor have
+been stopped. Completed Mac EEVEE frames are preserved locally but are not
+included in Git or the server archive. No final video is complete.
+The source code, supplied PDF/photos, models, audio and current bundles are
+versioned in GitHub. Git LFS is required to retrieve the binary assets.
+The canonical animation now contains the photo-informed materials; the earlier
+model and frame cache remain archived on the Mac. Do not mix older frames.
+
+The remote renderer's CPU test completed all five camera previews. CUDA
+has NOT been tested locally because this Mac has no NVIDIA GPU. Validate
+CUDA discovery and render quality on the server before the full job.
+
+SOURCE AND LICENSE
+Original repository: https://github.com/snaderi2000/digital_twin
+See alvir/README.md and alvir/video/audio/ATTRIBUTION.txt for attribution.
+For a server checkout (install Git LFS first):
+  git lfs install
+  git clone https://github.com/snaderi2000/digital_twin.git
+  cd digital_twin
+  git lfs pull
+
+The current optional standalone archive is
+alvir/video/alvir_v100_reference_theme_bundle.zip. Its contents have SHA-256
+checksums in BUNDLE_MANIFEST.json. A full Git checkout also contains the model
+building sources; the standalone archive focuses on rendering and references.
+Inspect alvir/references/user-pdf/alvir-theme-board.pdf first. The AI cover,
+regional aerial and unverified tower are not layout or landmark evidence.
+
+SERVER WORKFLOW
+1. Clone with Git LFS, or extract the standalone archive into its own working
+   directory. Keep the alvir/ directory structure. Inspect GPUs with nvidia-smi.
+   Respect any existing scheduler or CUDA_VISIBLE_DEVICES allocation.
+   Do not install system software or change drivers unless authorized.
+
+2. Use Blender 4.5 LTS, preferably 4.5.9, with NVIDIA CUDA support.
+   Official downloads: https://www.blender.org/download/lts/4-5/
+   Set a shell variable to the available Blender executable, for example:
+
+   ALVIR_BLENDER=/path/to/blender
+
+3. Benchmark one visible CUDA GPU (five representative 4K frames):
+
+   "$ALVIR_BLENDER" -b -t 8 --python-exit-code 1 \
+     alvir/output/alvir_walkthrough.blend \
+     --python alvir/scripts/remote_render.py -- \
+     --backend CUDA --gpu-index 0 --benchmark --samples 32
+
+   The script prints AVAILABLE_GPUS, selected devices, and frame times.
+   Inspect the rendered benchmark images in alvir/video/remote-benchmarks/.
+   For a quick diagnostic, add --width 1280; then benchmark native 4K.
+   Still-frame timing includes setup. A 12-frame animation range gives a
+   better sustained-speed measurement:
+
+   "$ALVIR_BLENDER" -b -t 8 --python-exit-code 1 \
+     alvir/output/alvir_walkthrough.blend \
+     --python alvir/scripts/remote_render.py -- \
+     --backend CUDA --gpu-index 0 --samples 32 --start 1 --end 12
+
+4. Render with the selected GPU indices from AVAILABLE_GPUS. Example for
+   one GPU; change --gpus to 0,1 or 0,1,2,3 only if those devices are
+   available and allocated to this task:
+
+   python3 alvir/scripts/run_remote_workers.py \
+     --blender "$ALVIR_BLENDER" --gpus 0 --samples 32
+
+   The launcher partitions all 2160 frames into disjoint ranges. Workers
+   write alvir/video/frames-cycles/ and their own logs. Existing complete
+   frames resume automatically. Keep the same Blender version and samples
+   across workers. A profile check prevents mixing incompatible caches.
+   If samples/settings change after benchmarking, preserve or move that
+   benchmark/production cache before starting the new settings.
+
+   Another option is one Blender process using all visible CUDA GPUs:
+   omit --gpu-index when calling remote_render.py. Benchmark before
+   choosing between multi-device rendering and one process per GPU.
+
+5. Do NOT mix Cycles and EEVEE frames. The remote Cycles profile restores
+   the original model's sky lighting and can run without EEVEE's display
+   context. EEVEE is an alternative only after its GPU graphics backend
+   is verified on the server. Its frames go to frames-eevee/.
+   All 2160 frames of the final film must use the selected profile.
+
+6. Encode once every frame is complete. The encoding script needs Python
+   Pillow, FFmpeg, ffprobe and Arial or DejaVu Sans. Use an existing Python
+   environment or a project virtual environment. Example:
+
+   python3 -m venv .venv
+   .venv/bin/python -m pip install Pillow
+   .venv/bin/python alvir/scripts/encode_walkthrough.py \
+     --frames alvir/video/frames-cycles \
+     --output alvir/video/alvir_walkthrough_90s_4k.mp4
+
+   Encoding adds titles, model uncertainty text, music and source credits,
+   fades and chapters. It checks all source-frame dimensions, the 90 s
+   audio/video streams and frame count, then decodes the entire MP4.
+   Final verification report: alvir/video/video-check.json.
+
+7. Inspect frames from all five shots, the transitions, and the last
+   credit screen. Check audio and visual playback before delivering.
+   Deliver the finished MP4 with credits.txt. Do not claim completion
+   merely because render jobs were launched. Publish the finished MP4
+   through Git LFS with its validation report and credits in this repository.
+
+SUGGESTED PROMPT FOR CODEX ON THE SERVER
+Read alvir/video/V100_HANDOFF.txt (or V100_HANDOFF.txt in the standalone
+archive), inspect the available GPUs and Blender installation,
+then finish the 90-second native 4K Alvir walkthrough with its licensed
+setar soundtrack. Benchmark CUDA, select a consistent render profile,
+render the remaining required frames, encode and validate the final MP4.
+Use the existing packed animation; do not rebuild or invent a new village.

@@ -1,0 +1,11 @@
+Setar improvisation — Alireza Farrokhzadi / sonsbcnintercultural
+freesound.org/s/256120/ · CC BY 3.0 · creativecommons.org/licenses/by/3.0/
+Music excerpted, normalized and faded
+Source: https://freesound.org/people/sonsbcnintercultural/sounds/256120/
+License: https://creativecommons.org/licenses/by/3.0/
+
+Microsoft building footprints · © OpenStreetMap contributors · Mapzen / USGS terrain
+Sentinel-2 cloudless — s2maps.eu by EOX IT Services GmbH · CC BY 4.0
+Contains modified Copernicus Sentinel data 2016 & 2017
+
+See ../README.md for complete model sources, modifications, and evidence limitations.

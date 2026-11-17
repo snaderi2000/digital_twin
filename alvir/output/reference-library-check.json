@@ -1,0 +1,20 @@
+{
+  "result": "passed",
+  "unique_images": 75,
+  "embedded_occurrences": 78,
+  "source_pdf_hash_verified": true,
+  "original_image_hashes_verified": true,
+  "themed_server_scene_matches_manifest": true,
+  "artifacts": [
+    {
+      "file": "output/alvir_reference_images.zip",
+      "bytes": 28805747,
+      "sha256": "7f37c4c520a588e898dee56a21a2e2ee6baf82c20309878f6d3b39b3eade0235"
+    },
+    {
+      "file": "video/alvir_v100_reference_theme_bundle.zip",
+      "bytes": 77855619,
+      "sha256": "90852ebc848fa477d2fd2beb5195103a9ee35554fe4a3ee43979d510087bcbf6"
+    }
+  ]
+}

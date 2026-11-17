@@ -1,0 +1,37 @@
+{
+  "result": "passed",
+  "png_integrity": true,
+  "geographic_plan_valid_xml": true,
+  "artifacts": [
+    {
+      "file": "renders/aerial.png",
+      "bytes": 4666535,
+      "sha256": "935de29a9d352e5c43c3a678593e2b30d69ae767bbe917f7ea3ec1d17edf048f"
+    },
+    {
+      "file": "renders/village.png",
+      "bytes": 5546492,
+      "sha256": "63740ef9bcfd85ff41c42625928f5da10c6d44bf68b02e985d9147c8c0dbccca"
+    },
+    {
+      "file": "renders/orchards.png",
+      "bytes": 4879333,
+      "sha256": "085a498354bfb6a922f31a4f9caec7ad3cc018234ff7cbf0809a17e6ee1683e0"
+    },
+    {
+      "file": "renders/plan.png",
+      "bytes": 4246364,
+      "sha256": "7cd3d2df2e925a598d47fff34a52ac9e586ecce62b9d96cc5040a0e1224d23f9"
+    },
+    {
+      "file": "renders/detail.png",
+      "bytes": 4227275,
+      "sha256": "5bf33e94ccbd101c5a76622cf67192cccaefbcb4d1479e8cb0d459ff35e321ff"
+    },
+    {
+      "file": "output/alvir_village.blend",
+      "bytes": 25210254,
+      "sha256": "7f638ff94ee054a2136f2e27e67afecbf6d7c4af44cd99e547f069ad24d0b004"
+    }
+  ]
+}

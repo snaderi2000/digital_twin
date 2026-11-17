@@ -1,0 +1,13 @@
+{
+  "bounds": [
+    -4500,
+    -4500,
+    4500,
+    4500
+  ],
+  "shape": [
+    257,
+    257
+  ],
+  "scope": "Terrain-only regional backdrop; buildings and land use outside main extent not reconstructed"
+}

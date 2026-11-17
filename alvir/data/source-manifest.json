@@ -1,0 +1,76 @@
+{
+  "manifest_generated_utc": "2026-11-17T05:30:32.504489+00:00",
+  "sources": [
+    {
+      "file": "building-index.csv",
+      "url": "https://bfppub.blob.core.windows.net/%24web/2026-08-13/dataset-links.csv",
+      "sha256": "de61b569b0c23c364d61173632d8c5487ea30bf20912c55b9fa1ab4a89d01148",
+      "license": "Microsoft CDLA Permissive 2.0",
+      "cache_reused": true
+    },
+    {
+      "file": "buildings.geojsonl.gz",
+      "url": "https://bfppub.z5.web.core.windows.net/2026-08-13/global-buildings.geojsonl/RegionName=Iran/quadkey=123002131/part-00028-110f5303-ff85-4c71-a2bf-c6070024fec8.c000.csv.gz",
+      "sha256": "68818324fc4581c99ab36b96d39948c70f1b8efe2b85074ab536a61c4ffebfe5",
+      "license": "Microsoft CDLA Permissive 2.0",
+      "cache_reused": true
+    },
+    {
+      "file": "osm.xml",
+      "url": "https://api.openstreetmap.org/api/0.6/map?bbox=49.986,35.374,50.018,35.399",
+      "sha256": "61bb7464b7b3861d249ae17f9ce64babfc63fb93dbdcdf124e3d826b89357861",
+      "license": "OpenStreetMap contributors; ODbL 1.0",
+      "cache_reused": true
+    },
+    {
+      "file": "dem-12-2616-1616.png",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/terrarium/12/2616/1616.png",
+      "sha256": "f7293181169affba7a684feed75ab6d319d91ef9a876e7ab5a172a049374e5af",
+      "license": "Mapzen Terrain Tiles; USGS SRTM/GMTED2010 attribution; see source documentation",
+      "cache_reused": true
+    },
+    {
+      "file": "dem-12-2616-1617.png",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/terrarium/12/2616/1617.png",
+      "sha256": "07233010a39802214a939ed31e50c8d0b19b4a20aefa8b6417c17aa15cc464ac",
+      "license": "Mapzen Terrain Tiles; USGS SRTM/GMTED2010 attribution; see source documentation",
+      "cache_reused": true
+    },
+    {
+      "file": "dem-12-2617-1616.png",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/terrarium/12/2617/1616.png",
+      "sha256": "d00d5aede3986176572ac92c7416c663bd7c4c432afdf871bd6b8932037ba554",
+      "license": "Mapzen Terrain Tiles; USGS SRTM/GMTED2010 attribution; see source documentation",
+      "cache_reused": true
+    },
+    {
+      "file": "dem-12-2617-1617.png",
+      "url": "https://elevation-tiles-prod.s3.amazonaws.com/terrarium/12/2617/1617.png",
+      "sha256": "5935f6c0a01e754e481fab5c1f0ed2880f602924a1d0cd41d6ea00b606b216ba",
+      "license": "Mapzen Terrain Tiles; USGS SRTM/GMTED2010 attribution; see source documentation",
+      "cache_reused": true
+    },
+    {
+      "file": "esri.json",
+      "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=49.986%2C35.374%2C50.018%2C35.399&bboxSR=4326&imageSR=3857&size=2048%2C2048&format=jpg&f=json",
+      "sha256": "051976c2cf744f890a86fa0b64e8181d7f0251a9d6be3916da131ec97a74b99e",
+      "license": "Esri World Imagery; reference use only; image not distributed in model",
+      "cache_reused": true
+    },
+    {
+      "file": "satellite-context.jpg",
+      "url": "https://server.arcgisonline.com/arcgis/rest/directories/arcgisoutput/World_Imagery_MapServer/_ags_mapbe30a0c5bf4b4ad79c33868fdbb8225b.jpg",
+      "sha256": "afab7596beb9b20f576303aa083743da4b1b874b78a2a5f053ca0b8850c62b45",
+      "license": "Reference only. This Esri raster is not embedded in the model or renders.",
+      "cache_reused": true
+    },
+    {
+      "file": "data/sentinel_context.jpg",
+      "url": "https://tiles.maps.eox.at/wms?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=s2cloudless_3857&STYLES=&SRS=EPSG%3A3857&BBOX=5560601.644156661%2C4210961.736766913%2C5571742.6642862465%2C4222152.655154766&WIDTH=2048&HEIGHT=2048&FORMAT=image%2Fjpeg",
+      "sha256": "a3e861f9e9c8f9575d4c3c15464afb23da6c5f65451ce90dfb6ea2910652ad4a",
+      "license": "CC BY 4.0",
+      "attribution": "Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016 & 2017)"
+    }
+  ],
+  "note": "Cached sources preserve acquisition snapshots. Remove a specific reference file to fetch it again; this can change the model."
+}

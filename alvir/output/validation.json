@@ -1,0 +1,18 @@
+{
+  "buildings": 474,
+  "roads": 48,
+  "instanced_trees": 5827,
+  "objects": 8389,
+  "unique_meshes": 2116,
+  "unique_vertices": 1195375,
+  "crs": "EPSG:32639",
+  "origin": [
+    409341.676515417,
+    3916385.3423484922,
+    1798.4203786053324
+  ],
+  "units": "metres",
+  "external_images": [],
+  "validation": "passed",
+  "limitations": "All building heights and facade layouts are estimates; parcels and individual trees inferred."
+}

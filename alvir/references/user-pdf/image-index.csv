@@ -1,0 +1,76 @@
+id,file,width,height,pages,theme_role,evidence_status,building_match
+alvir-ref-001,images/alvir-ref-001.jpeg,2046,1061,1,excluded: AI illustration,AI-generated illustration per PDF caption; excluded from observational evidence,none established
+alvir-ref-002,images/alvir-ref-002.jpeg,446,239,"4,19","context only, not mapped geometry",regional aerial per PDF; Alvir identity unverified; excluded from layout evidence,none established
+alvir-ref-003,images/alvir-ref-003.jpeg,800,640,"5,17",supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-004,images/alvir-ref-004.jpeg,500,333,"6,19",priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established
+alvir-ref-005,images/alvir-ref-005.jpeg,800,640,10,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-006,images/alvir-ref-006.jpeg,800,640,10,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-007,images/alvir-ref-007.jpeg,800,640,10,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-008,images/alvir-ref-008.jpeg,800,640,10,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-009,images/alvir-ref-009.jpeg,800,640,11,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-010,images/alvir-ref-010.jpeg,800,640,11,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-011,images/alvir-ref-011.jpeg,800,640,11,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-012,images/alvir-ref-012.jpeg,1024,819,11,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-013,images/alvir-ref-013.jpeg,800,640,12,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-014,images/alvir-ref-014.jpeg,800,640,12,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-015,images/alvir-ref-015.jpeg,1024,819,12,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-016,images/alvir-ref-016.jpeg,800,640,12,priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established
+alvir-ref-017,images/alvir-ref-017.jpeg,800,640,13,priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established
+alvir-ref-018,images/alvir-ref-018.jpeg,800,640,13,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-019,images/alvir-ref-019.jpeg,800,640,13,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-020,images/alvir-ref-020.jpeg,800,640,13,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-021,images/alvir-ref-021.jpeg,800,640,14,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-022,images/alvir-ref-022.jpeg,800,640,14,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-023,images/alvir-ref-023.jpeg,800,640,14,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-024,images/alvir-ref-024.jpeg,800,640,14,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-025,images/alvir-ref-025.jpeg,800,640,15,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-026,images/alvir-ref-026.jpeg,800,640,15,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-027,images/alvir-ref-027.jpeg,800,640,15,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-028,images/alvir-ref-028.jpeg,800,364,15,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-029,images/alvir-ref-029.jpeg,800,640,16,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-030,images/alvir-ref-030.jpeg,800,640,16,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-031,images/alvir-ref-031.jpeg,800,640,16,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-032,images/alvir-ref-032.jpeg,800,640,16,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-033,images/alvir-ref-033.jpeg,800,640,17,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-034,images/alvir-ref-034.jpeg,800,640,17,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-035,images/alvir-ref-035.jpeg,800,640,17,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-036,images/alvir-ref-036.jpeg,800,1000,18,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-037,images/alvir-ref-037.jpeg,600,513,18,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-038,images/alvir-ref-038.jpeg,640,800,18,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-039,images/alvir-ref-039.jpeg,1200,630,18,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-040,images/alvir-ref-040.jpeg,500,340,19,unverified landmark lead only,unverified landmark caption; do not infer an Alvir tower or its location,none established
+alvir-ref-041,images/alvir-ref-041.jpeg,840,560,19,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-042,images/alvir-ref-042.jpeg,720,1280,32,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-043,images/alvir-ref-043.jpeg,720,1280,32,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-044,images/alvir-ref-044.jpeg,720,1280,32,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-045,images/alvir-ref-045.jpeg,720,1280,32,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-046,images/alvir-ref-046.jpeg,720,1280,33,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-047,images/alvir-ref-047.jpeg,720,1280,33,priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established
+alvir-ref-048,images/alvir-ref-048.jpeg,720,1280,33,priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established
+alvir-ref-049,images/alvir-ref-049.jpeg,720,1280,33,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-050,images/alvir-ref-050.jpeg,720,1280,34,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-051,images/alvir-ref-051.jpeg,720,1280,34,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-052,images/alvir-ref-052.jpeg,720,1280,34,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-053,images/alvir-ref-053.jpeg,720,1280,34,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-054,images/alvir-ref-054.jpeg,720,1280,35,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-055,images/alvir-ref-055.jpeg,720,1280,35,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-056,images/alvir-ref-056.jpeg,720,1280,35,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-057,images/alvir-ref-057.jpeg,720,1280,35,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-058,images/alvir-ref-058.jpeg,720,1280,36,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-059,images/alvir-ref-059.jpeg,720,1280,36,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-060,images/alvir-ref-060.jpeg,720,1280,36,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-061,images/alvir-ref-061.jpeg,720,1280,36,reel snapshot; repeated presenter views and some useful streets/ruin/interior; not a registered photogrammetry sequence,user-supplied reference; location/date not independently verified,none established
+alvir-ref-062,images/alvir-ref-062.jpeg,1179,1572,38,priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established
+alvir-ref-063,images/alvir-ref-063.jpeg,1179,884,38,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-064,images/alvir-ref-064.jpeg,1179,884,38,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-065,images/alvir-ref-065.jpeg,1179,1572,38,priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established
+alvir-ref-066,images/alvir-ref-066.jpeg,1179,1572,39,priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established
+alvir-ref-067,images/alvir-ref-067.jpeg,1179,1572,39,priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established
+alvir-ref-068,images/alvir-ref-068.jpeg,1179,1572,39,priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established
+alvir-ref-069,images/alvir-ref-069.jpeg,1179,1572,39,priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established
+alvir-ref-070,images/alvir-ref-070.jpeg,1179,1572,40,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-071,images/alvir-ref-071.jpeg,1179,1572,40,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-072,images/alvir-ref-072.jpeg,1179,884,41,supporting landscape or architectural context,user-supplied reference; location/date not independently verified,none established
+alvir-ref-073,images/alvir-ref-073.jpeg,1179,884,41,priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established
+alvir-ref-074,images/alvir-ref-074.jpeg,1179,884,41,priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established
+alvir-ref-075,images/alvir-ref-075.jpeg,1179,1572,41,priority material / mixed architecture / lane reference,user-supplied reference; location/date not independently verified,none established

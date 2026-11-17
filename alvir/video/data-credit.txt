@@ -1,0 +1,3 @@
+Microsoft building footprints · © OpenStreetMap contributors · Mapzen / USGS terrain
+Sentinel-2 cloudless — s2maps.eu by EOX IT Services GmbH · CC BY 4.0
+Contains modified Copernicus Sentinel data 2016 & 2017

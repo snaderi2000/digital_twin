@@ -1,0 +1,15 @@
+alvir/output/*.blend filter=lfs diff=lfs merge=lfs -text
+alvir/output/*.zip filter=lfs diff=lfs merge=lfs -text
+alvir/video/*.zip filter=lfs diff=lfs merge=lfs -text
+alvir/video/*.mp4 filter=lfs diff=lfs merge=lfs -text
+alvir/video/audio/*.wav filter=lfs diff=lfs merge=lfs -text
+alvir/video/audio/*.mp3 filter=lfs diff=lfs merge=lfs -text
+alvir/data/*.npy filter=lfs diff=lfs merge=lfs -text
+alvir/data/*.png filter=lfs diff=lfs merge=lfs -text
+alvir/data/*.jpg filter=lfs diff=lfs merge=lfs -text
+alvir/renders/*.png filter=lfs diff=lfs merge=lfs -text
+alvir/references/user-pdf/*.pdf filter=lfs diff=lfs merge=lfs -text
+alvir/references/user-pdf/images/* filter=lfs diff=lfs merge=lfs -text
+# Preserve CSV line endings and whitespace from the extracted source text.
+alvir/references/user-pdf/image-index.csv whitespace=cr-at-eol
+alvir/references/user-pdf/page-text.txt whitespace=-blank-at-eol

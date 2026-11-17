@@ -1,0 +1,37 @@
+{
+  "aerial": {
+    "file": "renders/aerial.png",
+    "width": 2560,
+    "height": 1440,
+    "samples": 96,
+    "engine": "Cycles"
+  },
+  "village": {
+    "file": "renders/village.png",
+    "width": 2560,
+    "height": 1440,
+    "samples": 96,
+    "engine": "Cycles"
+  },
+  "orchards": {
+    "file": "renders/orchards.png",
+    "width": 2560,
+    "height": 1440,
+    "samples": 96,
+    "engine": "Cycles"
+  },
+  "plan": {
+    "file": "renders/plan.png",
+    "width": 2560,
+    "height": 1440,
+    "samples": 96,
+    "engine": "Cycles"
+  },
+  "detail": {
+    "file": "renders/detail.png",
+    "width": 2560,
+    "height": 1440,
+    "samples": 96,
+    "engine": "Cycles"
+  }
+}

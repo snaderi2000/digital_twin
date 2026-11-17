@@ -1,0 +1,13 @@
+{
+  "name": "Alvir · الویر",
+  "origin_wgs84": [50.0018, 35.3867],
+  "bbox_wgs84": [49.986, 35.374, 50.018, 35.399],
+  "horizontal_crs": "EPSG:32639",
+  "vertical_datum_note": "Mapzen Terrarium source elevations; local origin subtracted; not survey control",
+  "terrain_grid_samples": 257,
+  "season": "Late spring / early summer artistic reconstruction",
+  "seed": 4738287,
+  "estimated_storey_height_m": 3.1,
+  "scope": "Whole village and nearby fields, approximately 2.9 × 2.9 km",
+  "not_survey_certified": true
+}

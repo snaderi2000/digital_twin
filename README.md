@@ -1,5 +1,9 @@
 # Si-o-se-pol · Isfahan
 
+This repository also contains an [Alvir village reconstruction](alvir/README.md), with satellite-derived footprints, mapped roads, terrain, and editable Blender geometry.
+
+The Alvir model, supplied reference PDF/photos, audio and server bundles use **Git LFS**. Install Git LFS before cloning, then run `git lfs pull`. To continue the 90-second 4K walkthrough on a V100 server, read [the server handoff](alvir/video/V100_HANDOFF.txt).
+
 An editable Blender reconstruction of the Bridge of Thirty-three Arches, with present-day architectural character and a flowing Zayandeh Rud. Built in metres, with real arch openings, modeled radial brickwork, procedural materials, and six inspection cameras.
 
 ![Si-o-se-pol, river panorama](renders/hero.png)

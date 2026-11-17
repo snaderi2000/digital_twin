@@ -1,0 +1,12 @@
+{
+  "url": "https://tiles.maps.eox.at/wms?SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&LAYERS=s2cloudless_3857&STYLES=&SRS=EPSG%3A3857&BBOX=5560601.644156661%2C4210961.736766913%2C5571742.6642862465%2C4222152.655154766&WIDTH=2048&HEIGHT=2048&FORMAT=image%2Fjpeg",
+  "extent_3857": [
+    5560601.644156661,
+    4210961.736766913,
+    5571742.6642862465,
+    4222152.655154766
+  ],
+  "license": "CC BY 4.0",
+  "attribution": "Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016 & 2017)",
+  "use": "Historical landscape context, not present-day building evidence"
+}

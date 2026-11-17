@@ -1,0 +1,22 @@
+Alvir walkthrough soundtrack
+
+“Setar,Alireza Farrokhzadi.mp3”
+Performance: Alireza Farrokhzadi
+Published by: sonsbcnintercultural on Freesound, 29 November 2014
+Source: https://freesound.org/people/sonsbcnintercultural/sounds/256120/
+License: Creative Commons Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+
+This is a real solo setar improvisation, described by its uploader as performed
+on 25 November 2014. The downloadable HQ preview is the source used here.
+The source recording is lossy MP3 audio; the WAV does not restore lost fidelity.
+
+Changes: a continuous excerpt, loudness normalization, fades, and resampling.
+Exact segment and checksums are recorded in soundtrack.json. The excerpt is
+synchronized with the Alvir model walkthrough. Retain this credit and the
+source/license links when sharing. No performer or publisher endorsement is implied.
+
+Suggested video credit:
+Music: Alireza Farrokhzadi / sonsbcnintercultural — Setar improvisation
+Freesound 256120 · CC BY 3.0 · excerpted, normalized and faded
+freesound.org/s/256120/ · creativecommons.org/licenses/by/3.0/

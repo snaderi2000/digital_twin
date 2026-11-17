@@ -1,0 +1,30 @@
+;FFMETADATA1
+title=Alvir | A walk through the village
+comment=Native 4K Blender reconstruction. Building heights, facades and planting estimated.
+artist=Digital Twin project
+copyright=Music: Alireza Farrokhzadi / sonsbcnintercultural, Freesound 256120, CC BY 3.0. See credits.txt.
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=10000
+title=Alvir and its valley
+[CHAPTER]
+TIMEBASE=1/1000
+START=10000
+END=32000
+title=Western village lane
+[CHAPTER]
+TIMEBASE=1/1000
+START=32000
+END=54000
+title=Through the village
+[CHAPTER]
+TIMEBASE=1/1000
+START=54000
+END=76000
+title=Northern garden lane
+[CHAPTER]
+TIMEBASE=1/1000
+START=76000
+END=90000
+title=Orchards and the village

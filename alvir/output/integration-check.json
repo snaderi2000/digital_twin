@@ -1,0 +1,12 @@
+{
+  "result": "passed",
+  "saved_building_footprints_checked": 474,
+  "transformed_footprint_vertex_tolerance_m": 0.002,
+  "metric_scale": true,
+  "crs": "EPSG:32639",
+  "external_images": [],
+  "portable_cpu_default": true,
+  "shared_terrain_border_vertices": 1024,
+  "full_study_area_plan_framing": true,
+  "note": "Checks agreement with source polygons; does not certify real-world survey accuracy."
+}

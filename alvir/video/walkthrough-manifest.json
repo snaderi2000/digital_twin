@@ -1,0 +1,58 @@
+{
+  "width": 3840,
+  "height": 2160,
+  "fps": 24,
+  "frames": 2160,
+  "duration_seconds": 90,
+  "samples": 32,
+  "engine": "Cycles",
+  "frame_format": "JPEG quality 97",
+  "original_scene": "output/alvir_village.blend",
+  "animation_scene": "output/alvir_walkthrough.blend",
+  "render_signature": "9e7cf4474b4746d296503884e65983f3b7a123b27f96a3cd2e6603a0291df83b",
+  "animation_sha256": "a7704404fbc20641df385717795db934000a793ff65119b6879ece444331bf49",
+  "shots": [
+    {
+      "name": "Alvir and its valley",
+      "kind": "aerial",
+      "first": 1,
+      "last": 240,
+      "path_collision_free": true,
+      "camera_clearance_m": 0.35
+    },
+    {
+      "name": "Western village lane",
+      "kind": "walk",
+      "first": 241,
+      "last": 768,
+      "path_collision_free": true,
+      "camera_clearance_m": 0.35
+    },
+    {
+      "name": "Through the village",
+      "kind": "walk",
+      "first": 769,
+      "last": 1296,
+      "path_collision_free": true,
+      "camera_clearance_m": 0.35
+    },
+    {
+      "name": "Northern garden lane",
+      "kind": "walk",
+      "first": 1297,
+      "last": 1824,
+      "path_collision_free": true,
+      "camera_clearance_m": 0.35
+    },
+    {
+      "name": "Orchards and the village",
+      "kind": "aerial",
+      "first": 1825,
+      "last": 2160,
+      "path_collision_free": true,
+      "camera_clearance_m": 0.35
+    }
+  ],
+  "derived_from_animation_sha256": "c310a029f8749342d5da8d1931fbf09919c8cfda9afc381c96c90c2098e5342a",
+  "theme": "Photo-informed material study; geometry unchanged and unregistered"
+}

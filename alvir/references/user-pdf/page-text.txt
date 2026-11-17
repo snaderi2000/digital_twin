@@ -1,0 +1,559 @@
+PAGE 1
+Alvir: A 3D Model Project
+Built from @alvir_channel on Instagram — Alvir village, Kharqan, Zarandiyeh, Markazi Province, Iran
+3D render: AI-generated visualisation based on the aerial view of Alvir — not a surveyed model. See slide 7.
+
+
+PAGE 2
+Where Alvir is
+• Village and capital of Alvir Rural District, Kharqan District, Zarandiyeh County, Markazi Province, Iran
+• Coordinates: 35.38667° N, 50.00222° E
+• Elevation: about 1,798 m
+• Population: 578 (2016 census)
+• Near Saveh; the channel calls it the largest gathering of Alviris online
+Sources: Wikipedia / Wikidata — Alvir; @alvir_channel bio
+
+
+PAGE 3
+What the channel actually gives us
+• 43 posts by @alvir_channel in the latest batch (8,259 followers)
+• Mostly video: 33 videos, plus carousels and a few still photos
+• Best for a model: the April 2023 aerial video, the April 2025 spring carousel, and festival / landmark posts
+• Most posts are single viewpoints — people, ceremonies, music — not a survey of the village
+• No camera data, GPS, or overlap information comes with the posts
+Source: @alvir_channel posts, fetched 16 Nov 2026
+
+
+PAGE 4
+Best overhead view — aerial video, April 2023
+• Drone video, 30 April 2023 — 732 likes, 30 comments
+• What the frame shows: dense houses, mostly flat grey roofs with 
+scattered red and blue roofs
+• A modern white house with a red roof, lower centre; a bare rocky mound 
+to its right
+• Green trees in the lower-left foreground; dry brown hills rising behind the 
+village
+• Drone: Masoud Hamami. Edit: Rasoul Zaqar
+Aerial reference view of a village in this region (IRIB Markazi).
+Source: instagram.com/tv/Crpr20kgWhc/ — @alvir_channel; image: markazi.irib-news.ir
+
+
+PAGE 5
+Spring and terrain — April 2025
+• Carousel, 20 April 2025 — 717 likes, 6 comments, location: Alvir
+• First frame: a large bare-branched tree, green grass field in front
+• Smaller bare and blossoming trees in the middle distance
+• A few houses, including a reddish-brown house, at the foot of a dry 
+brown hill
+• Early spring, before full leaf-out — useful for terrain and tree cover
+Landscape around Alvir (alvir.org).
+Source: instagram.com/p/DIqr12uRfZ-/ — @alvir_channel; image: aftab.cc, Alvir Village
+
+
+PAGE 6
+Landmarks to model
+• Afshan Park — kite festival site (26 Shahrivar), bazaar and cultural-art 
+competitions
+• The ancient tree — a centuries-old tree in the historic village, Aug 2025 
+video
+• Village centre and rooftops — the aerial frame is the best layout 
+reference
+• Kite festival poster, 28 Aug 2026 — 308 likes; labelled AI content on 
+Instagram
+• Local life: Tati-language podcast, Halay dance, Muharram ceremonies
+Traditional mud-brick lane in Alvir. Photo: Hamid Aghamohammadi.
+Sources: instagram.com/p/DclT_tUA4oI/ and instagram.com/reel/DNK9aREMj7A/ — @alvir_channel
+
+
+PAGE 7
+Why this is not yet a true 3D mesh
+• Instagram posts are compressed, single-viewpoint videos and photos
+• No overlapping drone grid: photogrammetry needs 70–80% overlap between shots
+• No camera position, GPS, or altitude data in the posts
+• Thumbnails are about 1080 px — too low for fine detail
+• So this deck is a visual reconstruction brief, not a measured 3D model
+Honest limit — do not present the images as a surveyed model
+
+
+PAGE 8
+How to get a real 3D model
+• Fly a drone grid over the village: nadir (straight down) plus oblique shots, 70–80% overlap
+• Cover the rooftops, the rocky mound, Afshan Park, and the ancient tree
+• Add ground control points with GPS, and note the 1,798 m elevation
+• Process in photogrammetry software (e.g. OpenDroneMap, Metashape, or RealityCapture)
+• Use the Instagram aerial video as the flight-planning reference, not the source data
+Next step: a drone survey — the Instagram images alone cannot build the mesh
+
+
+PAGE 9
+Photo gallery — Alvir in pictures
+40 photos embedded in the next 10 slides, 4 per slide.
+• 35 photos from the Alvir.org gallery (aftab.cc)
+• Alvir Historic Castle — itto.org
+• Historic mound — kojaro
+• Plus the traditional lane and the aerial reference already in this deck
+All of these were downloaded and checked by looking at them. Photos that could not be verified as Alvir were left out.
+Sources: alvir.org via aftab.cc, itto.org, kojaro
+
+
+PAGE 10
+Gallery 1 of 10 — photos 1–4 of 40
+Alvir.org photo 10
+Alvir.org photo 11
+Alvir.org photo 12
+Alvir.org photo 13
+These are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram 
+blocks direct downloads — so the 100 Instagram images are listed with links in the next section.
+
+
+PAGE 11
+Gallery 2 of 10 — photos 5–8 of 40
+Alvir.org photo 14
+Alvir.org photo 15
+Alvir.org photo 16
+Alvir.org photo 17
+These are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram 
+blocks direct downloads — so the 100 Instagram images are listed with links in the next section.
+
+
+PAGE 12
+Gallery 3 of 10 — photos 9–12 of 40
+Alvir.org photo 18
+Alvir.org photo 19
+Alvir.org photo 20
+Alvir.org photo 21
+These are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram 
+blocks direct downloads — so the 100 Instagram images are listed with links in the next section.
+
+
+PAGE 13
+Gallery 4 of 10 — photos 13–16 of 40
+Alvir.org photo 22
+Alvir.org photo 23
+Alvir.org photo 24
+Alvir.org photo 25
+These are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram 
+blocks direct downloads — so the 100 Instagram images are listed with links in the next section.
+
+
+PAGE 14
+Gallery 5 of 10 — photos 17–20 of 40
+Alvir.org photo 26
+Alvir.org photo 27
+Alvir.org photo 28
+Alvir.org photo 29
+These are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram 
+blocks direct downloads — so the 100 Instagram images are listed with links in the next section.
+
+
+PAGE 15
+Gallery 6 of 10 — photos 21–24 of 40
+Alvir.org photo 30
+Alvir.org photo 31
+Alvir.org photo 32
+Alvir.org photo 33
+These are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram 
+blocks direct downloads — so the 100 Instagram images are listed with links in the next section.
+
+
+PAGE 16
+Gallery 7 of 10 — photos 25–28 of 40
+Alvir.org photo 34
+Alvir.org photo 35
+Alvir.org photo 36
+Alvir.org photo 37
+These are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram 
+blocks direct downloads — so the 100 Instagram images are listed with links in the next section.
+
+
+PAGE 17
+Gallery 8 of 10 — photos 29–32 of 40
+Alvir.org photo 38
+Alvir.org photo 39
+Alvir.org photo 40
+Alvir.org photo 41
+These are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram 
+blocks direct downloads — so the 100 Instagram images are listed with links in the next section.
+
+
+PAGE 18
+Gallery 9 of 10 — photos 33–36 of 40
+Alvir.org photo 42
+Alvir.org photo 43
+Alvir.org photo 44
+Alvir Historic Castle (itto.org)
+These are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram 
+blocks direct downloads — so the 100 Instagram images are listed with links in the next section.
+
+
+PAGE 19
+Gallery 10 of 10 — photos 37–40 of 40
+Castle tower, Alvir (itto.org)
+Historic mound, Alvir (kojaro)
+Traditional lane (H. Aghamohammadi)
+Aerial reference (IRIB Markazi)
+These are real Alvir photos from alvir.org and the Alvir Historic Castle pages. The Instagram posts themselves could not be downloaded — Instagram 
+blocks direct downloads — so the 100 Instagram images are listed with links in the next section.
+
+
+PAGE 20
+Instagram — 100 images from @alvir_channel
+The next 10 slides list 100 Instagram posts, 10 per slide, newest first.
+Each entry is one image (a photo, a carousel of several photos, or a video frame) with its date, type, topic, and link — tap the link to 
+open the image on Instagram.
+Instagram blocks direct downloads, so these are linked, not embedded. The full list of 142 channel posts is in 
+alvir-instagram-images.md.
+Source: @alvir_channel, collected 16 Nov 2026
+
+
+PAGE 21
+Instagram 1–10 of 100
+2026-11-11 — video — Village post — 566 likes
+    https://www.instagram.com/reel/DfmQfrwv76a/
+2026-10-18 — video — Village post — 975 likes
+    https://www.instagram.com/reel/DeqowibgCdx/
+2026-10-10 — video — Local food — 567 likes
+    https://www.instagram.com/reel/DeU39xrRsWR/
+2026-10-09 — video — Podcast / Tati — 304 likes
+    https://www.instagram.com/reel/DeSGQWzAIzb/
+2026-10-04 — video — Local bread — 697 likes
+    https://www.instagram.com/reel/DeEtSi-g_C_/
+2026-10-01 — video — Festival — 451 likes
+    https://www.instagram.com/reel/Dd9bVDoguL1/
+2026-10-01 — video — Festival — 862 likes
+    https://www.instagram.com/reel/Dd9Bzb1x6hX/
+2026-09-17 — video — Kite festival — 1434 likes
+    https://www.instagram.com/reel/DdZ0K91ARNS/
+2026-09-17 — video — Kite festival — 1385 likes
+    https://www.instagram.com/reel/DdZjDqExnwl/
+2026-08-28 — image — Kite festival — 308 likes
+    https://www.instagram.com/p/DclT_tUA4oI/
+Open the links on Instagram to see each image.
+
+
+PAGE 22
+Instagram 11–20 of 100
+2026-08-21 — carousel — Houses — 409 likes
+    https://www.instagram.com/p/DcTxSqfgMVr/
+2026-06-24 — carousel — Taazieh — 417 likes
+    https://www.instagram.com/p/DZ9nT_8EY2U/
+2026-06-21 — video — Taazieh — 254 likes
+    https://www.instagram.com/reel/DZ19-63Tq-V/
+2026-06-19 — video — Taazieh — 477 likes
+    https://www.instagram.com/reel/DZxTRd3t3Se/
+2025-12-20 — video — Houses — 603 likes
+    https://www.instagram.com/reel/DSfqhLEDFjF/
+2025-09-15 — video — Music — 875 likes
+    https://www.instagram.com/reel/DOnRPjrjN5I/
+2025-08-10 — video — Nature — 655 likes
+    https://www.instagram.com/reel/DNK9aREMj7A/
+2025-07-15 — image — Houses — 511 likes
+    https://www.instagram.com/p/DMH_GyKttqq/
+2025-07-14 — carousel — Taazieh — 610 likes
+    https://www.instagram.com/p/DMGBEyvt7NV/
+2025-07-08 — video — Muharram — 444 likes
+    https://www.instagram.com/reel/DL3ERbKzij5/
+Open the links on Instagram to see each image.
+
+
+PAGE 23
+Instagram 21–30 of 100
+2025-07-06 — video — Muharram — 602 likes
+    https://www.instagram.com/reel/DLxoE5rSZwW/
+2025-07-06 — video — Muharram — 404 likes
+    https://www.instagram.com/reel/DLxYuR7yWKk/
+2025-07-05 — video — Ashura — 469 likes
+    https://www.instagram.com/reel/DLuSCJzRgU9/
+2025-06-01 — video — Local bread — 707 likes
+    https://www.instagram.com/reel/DKWepKeA9_I/
+2025-04-20 — carousel — Spring — 717 likes
+    https://www.instagram.com/p/DIqr12uRfZ-/
+2025-04-16 — video — Houses — 236 likes
+    https://www.instagram.com/reel/DIgRAcJxDv7/
+2025-04-09 — video — Documentary — 734 likes
+    https://www.instagram.com/reel/DIPPcegxn2y/
+2024-10-12 — image — Village post — 794 likes
+    https://www.instagram.com/p/DBCZeBiNYni/
+2024-07-17 — carousel — Taazieh — 771 likes
+    https://www.instagram.com/p/C9g_HAPNFWt/
+2024-02-24 — image — Spring — 749 likes
+    https://www.instagram.com/p/C3u4ojWrTDI/
+Open the links on Instagram to see each image.
+
+
+PAGE 24
+Instagram 31–40 of 100
+2023-09-15 — image — Summer — 780 likes
+    https://www.instagram.com/p/CxOOH01NlqM/
+2023-09-10 — image — Kite festival — 397 likes
+    https://www.instagram.com/p/CxAJvXCtQqF/
+2023-07-28 — carousel — Taazieh — 607 likes
+    https://www.instagram.com/p/CvQHkkDN_6_/
+2023-07-28 — carousel — Taazieh — 784 likes
+    https://www.instagram.com/p/CvQE-uwN00j/
+2023-04-30 — video — Spring — 732 likes
+    https://www.instagram.com/tv/Crpr20kgWhc/
+2023-04-24 — video — Spring — 701 likes
+    https://www.instagram.com/tv/Crax--qLkJs/
+2022-08-10 — carousel — Taazieh — 680 likes
+    https://www.instagram.com/p/ChGKYnDrPA-/
+2022-08-10 — carousel — Taazieh — 504 likes
+    https://www.instagram.com/p/ChGEOeNuIl8/
+2022-08-10 — carousel — Muharram — 694 likes
+    https://www.instagram.com/p/ChF6MZcNvZq/
+2022-05-24 — video — Nature — 518 likes
+    https://www.instagram.com/tv/Cd86tfuj_lc/
+Open the links on Instagram to see each image.
+
+
+PAGE 25
+Instagram 41–50 of 100
+2022-05-19 — video — Spring — 565 likes
+    https://www.instagram.com/p/CdvpKFQj_Mf/
+2022-03-20 — video — Spring — 365 likes
+    https://www.instagram.com/p/CbVK592Dla5/
+2022-03-18 — carousel — Local bread — 677 likes
+    https://www.instagram.com/p/CbPTw3FO9qR/
+2022-02-04 — carousel — Houses — 767 likes
+    https://www.instagram.com/p/CZj8HFHrAOF/
+2022-01-06 — video — Village post — 311 likes
+    https://www.instagram.com/tv/CYZR2VRJHG0/
+2021-11-08 — carousel — Autumn — 730 likes
+    https://www.instagram.com/p/CWAlA2ltaMR/
+2021-11-04 — image — Autumn — 677 likes
+    https://www.instagram.com/p/CV2jGN-twcw/
+2021-10-29 — video — Autumn — 626 likes
+    https://www.instagram.com/p/CVnldKcD_Bu/
+2021-09-18 — image — Houses — 1050 likes
+    https://www.instagram.com/p/CT-CTOXtrCB/
+2021-08-26 — image — Summer — 660 likes
+    https://www.instagram.com/p/CTCc9ccLv22/
+Open the links on Instagram to see each image.
+
+
+PAGE 26
+Instagram 51–60 of 100
+2021-08-10 — video — Muharram — 599 likes
+    https://www.instagram.com/tv/CSZgNGLjCND/
+2021-08-02 — carousel — Summer — 509 likes
+    https://www.instagram.com/p/CSEc9gENwdV/
+2021-07-23 — carousel — Tree — 625 likes
+    https://www.instagram.com/p/CRshOi_hHPc/
+2021-07-14 — video — Village post — 493 likes
+    https://www.instagram.com/p/CRUFLERBmo1/
+2021-06-24 — video — Documentary — 365 likes
+    https://www.instagram.com/tv/CQfsKP6hGGy/
+2021-06-20 — video — Nature — 351 likes
+    https://www.instagram.com/tv/CQWChmqBMYZ/
+2021-05-23 — carousel — Village post — 926 likes
+    https://www.instagram.com/p/CPOX4cABUxs/
+2021-05-09 — video — Documentary — 505 likes
+    https://www.instagram.com/tv/COqMOnQBrVp/
+2021-05-06 — video — Spring — 605 likes
+    https://www.instagram.com/p/COh7a4BB3Rp/
+2021-04-25 — video — Spring — 442 likes
+    https://www.instagram.com/tv/COGj7P-Bbey/
+Open the links on Instagram to see each image.
+
+
+PAGE 27
+Instagram 61–70 of 100
+2021-04-24 — image — Village post — 1057 likes
+    https://www.instagram.com/p/CODl3A2B-7M/
+2021-04-15 — carousel — Spring — 602 likes
+    https://www.instagram.com/p/CNsaCkVhEJS/
+2021-04-02 — carousel — Spring — 793 likes
+    https://www.instagram.com/p/CNLArmfByBw/
+2021-03-31 — carousel — Village post — 583 likes
+    https://www.instagram.com/p/CNF4rNFh8Xx/
+2021-03-25 — video — Spring — 1061 likes
+    https://www.instagram.com/p/CM2dhc8BjJK/
+2021-03-20 — image — Spring — 512 likes
+    https://www.instagram.com/p/CMoqkV4B0rS/
+2021-03-17 — image — Spring — 605 likes
+    https://www.instagram.com/p/CMg9UtyBRzi/
+2021-02-14 — carousel — Documentary — 771 likes
+    https://www.instagram.com/p/CLRrg7QBoE4/
+2021-02-04 — video — Nature — 88 likes
+    https://www.instagram.com/p/CK3hTSgB52M/
+2021-01-21 — carousel — Winter — 826 likes
+    https://www.instagram.com/p/CKUVdglBjaj/
+Open the links on Instagram to see each image.
+
+
+PAGE 28
+Instagram 71–80 of 100
+2021-01-19 — video — Winter — 506 likes
+    https://www.instagram.com/tv/CKOVsm1hjjH/
+2020-12-13 — video — Winter — 585 likes
+    https://www.instagram.com/tv/CIvzlNShSe8/
+2020-11-18 — video — Autumn — 562 likes
+    https://www.instagram.com/p/CHu9FjLJH9q/
+2020-11-15 — video — Autumn — 664 likes
+    https://www.instagram.com/p/CHm5JKahzZb/
+2020-11-05 — video — Autumn — 604 likes
+    https://www.instagram.com/p/CHNF8l5huXm/
+2020-10-30 — video — Autumn — 574 likes
+    https://www.instagram.com/p/CG-ZMvEByHd/
+2020-09-22 — carousel — Autumn — 692 likes
+    https://www.instagram.com/p/CFcILq9hmz1/
+2020-09-20 — video — Muharram — 559 likes
+    https://www.instagram.com/p/CFWkhIihPrd/
+2020-09-09 — video — Muharram — 694 likes
+    https://www.instagram.com/p/CE6YlaIBOkL/
+2020-08-15 — carousel — Local bread — 768 likes
+    https://www.instagram.com/p/CD6Ur4ThK0B/
+Open the links on Instagram to see each image.
+
+
+PAGE 29
+Instagram 81–90 of 100
+2020-08-06 — video — Village post — 448 likes
+    https://www.instagram.com/tv/CDi8KwFBgVu/
+2020-06-21 — carousel — Spring — 687 likes
+    https://www.instagram.com/p/CBsf1MLBjTO/
+2020-06-18 — video — Village post — 622 likes
+    https://www.instagram.com/p/CBkvv0_hL9M/
+2020-05-21 — image — Spring — 615 likes
+    https://www.instagram.com/p/CAcpcWahgL8/
+2020-05-09 — image — Spring — 616 likes
+    https://www.instagram.com/p/B_-xwS4hxe9/
+2020-05-02 — carousel — Spring — 643 likes
+    https://www.instagram.com/p/B_ryKkjBh8t/
+2020-04-24 — image — Spring — 730 likes
+    https://www.instagram.com/p/B_XJHDSBSc4/
+2020-04-19 — video — Spring — 586 likes
+    https://www.instagram.com/p/B_KbC5YhyoB/
+2020-04-14 — carousel — Village post — 772 likes
+    https://www.instagram.com/p/B--KRZbBpY3/
+2020-04-13 — image — Spring — 753 likes
+    https://www.instagram.com/p/B-66oImh1ub/
+Open the links on Instagram to see each image.
+
+
+PAGE 30
+Instagram 91–100 of 100
+2020-04-08 — image — Spring — 603 likes
+    https://www.instagram.com/p/B-uISdlB9qv/
+2020-04-06 — image — Spring — 539 likes
+    https://www.instagram.com/p/B-pWnpSBBwT/
+2020-04-06 — image — Spring — 690 likes
+    https://www.instagram.com/p/B-pV-TKBRVw/
+2020-04-06 — image — Spring — 607 likes
+    https://www.instagram.com/p/B-pVSemh_CF/
+2020-04-04 — carousel — Spring — 651 likes
+    https://www.instagram.com/p/B-joY08hTOg/
+2020-03-27 — carousel — Spring — 725 likes
+    https://www.instagram.com/p/B-PmZ35hUyo/
+2020-03-27 — image — Spring — 752 likes
+    https://www.instagram.com/p/B-PHnBmBVCu/
+2020-03-19 — carousel — Spring — 636 likes
+    https://www.instagram.com/p/B966wW1BSDV/
+2020-03-10 — video — Documentary — 459 likes
+    https://www.instagram.com/tv/B9j7opoBHMe/
+2020-03-10 — video — Documentary — 422 likes
+    https://www.instagram.com/tv/B9j55oLBWHh/
+Open the links on Instagram to see each image.
+
+
+PAGE 31
+Reel snapshots — Alvir, September 2026
+20 snapshots taken throughout a 2-minute 19-second reel about Alvir, one about every 7 seconds, from the start to the end.
+• Reel: @amlakshahrah (Shahrah real estate), posted 27 September 2026 — 1,253 likes, 216 comments
+• Caption: “Alvir is not just a village, history flows through it” — one of the most beautiful villages in Kharqan, Zarandieh, about 140 
+km from Tehran, good climate, old, warm and authentic people
+• The reel is a property promo: it invites viewers to comment “Alvir” if they want land, a garden, or a villa there
+• Frames show the presenter in the village, village streets, houses, and a tiled historic interior
+Source: instagram.com/reel/DdzWEMlxH_U/ — @amlakshahrah
+
+
+PAGE 32
+Reel snapshots 1–4 of 20
+Snapshot 1 — 4s
+Snapshot 2 — 10s
+Snapshot 3 — 17s
+Snapshot 4 — 24s
+Source: instagram.com/reel/DdzWEMlxH_U/ — @amlakshahrah, 27 Sep 2026
+
+
+PAGE 33
+Reel snapshots 5–8 of 20
+Snapshot 5 — 31s
+Snapshot 6 — 38s
+Snapshot 7 — 45s
+Snapshot 8 — 52s
+Source: instagram.com/reel/DdzWEMlxH_U/ — @amlakshahrah, 27 Sep 2026
+
+
+PAGE 34
+Reel snapshots 9–12 of 20
+Snapshot 9 — 59s
+Snapshot 10 — 66s
+Snapshot 11 — 73s
+Snapshot 12 — 80s
+Source: instagram.com/reel/DdzWEMlxH_U/ — @amlakshahrah, 27 Sep 2026
+
+
+PAGE 35
+Reel snapshots 13–16 of 20
+Snapshot 13 — 87s
+Snapshot 14 — 94s
+Snapshot 15 — 101s
+Snapshot 16 — 108s
+Source: instagram.com/reel/DdzWEMlxH_U/ — @amlakshahrah, 27 Sep 2026
+
+
+PAGE 36
+Reel snapshots 17–20 of 20
+Snapshot 17 — 115s
+Snapshot 18 — 122s
+Snapshot 19 — 129s
+Snapshot 20 — 136s
+Source: instagram.com/reel/DdzWEMlxH_U/ — @amlakshahrah, 27 Sep 2026
+
+
+PAGE 37
+Your photos from Alvir
+14 photos you sent on 16 November 2026, added as they are.
+• The mosque with the green dome, and the memorial plaque in front of it — Haj Hamzeh Naderipour
+• The dry hills, dirt lanes, and old mud-brick houses and walls
+• The old trees behind the mud walls
+• You and a woman with a villager riding a donkey loaded with greens
+Photos: Shawheen Naderi, sent 16 Nov 2026
+
+
+PAGE 38
+Your photos 1–4 of 14
+Mosque with green dome, Alvir
+Dry hills above the village
+Memorial plaque — Haj Hamzeh 
+Naderipour
+Old tree behind a mud-brick wall
+Photos: Shawheen Naderi, sent 16 Nov 2026
+
+
+PAGE 39
+Your photos 5–8 of 14
+Old tree and mud wall, another view
+Mud-brick house with green door
+Dirt lane between mud walls
+Old mud-brick house, wooden door
+Photos: Shawheen Naderi, sent 16 Nov 2026
+
+
+PAGE 40
+Your photos 9–10 of 14
+You with a villager on a donkey loaded with 
+greens
+Same moment — the donkey grazing
+Photos: Shawheen Naderi, sent 16 Nov 2026
+
+
+PAGE 41
+Your photos 11–14 of 14
+A woman with the villager on his donkey, 
+mosque behind
+Shaded dirt lane between walls
+Mud-brick building under a big tree
+Old gate under a walnut tree
+Photos: Shawheen Naderi, sent 16 Nov 2026

@@ -1,0 +1,9 @@
+{
+  "result": "passed",
+  "duration_seconds": 90.0,
+  "sample_rate": 48000,
+  "channels": 2,
+  "sample_width_bytes": 2,
+  "integrated_lufs": -20.0,
+  "true_peak_dbfs": -2.0
+}

@@ -1,0 +1,39 @@
+{
+  "buildings": 474,
+  "mapped_road_segments": 48,
+  "building_heights": {
+    "unmeasured_typology_estimate": 474
+  },
+  "roof_classes": {
+    "galvanized": 247,
+    "earth": 168,
+    "blue_metal": 25,
+    "red_metal": 34
+  },
+  "terrain": {
+    "origin_utm": [
+      409341.676515417,
+      3916385.3423484922,
+      1798.4203786053324
+    ],
+    "crs": "EPSG:32639",
+    "bounds": [
+      -1450.087245766772,
+      -1483.6335712126456,
+      1485.5037268872256,
+      1439.1271815733053
+    ],
+    "shape": [
+      257,
+      257
+    ],
+    "range_m": [
+      -72.10501861572266,
+      287.093994140625
+    ],
+    "note": "Bilinearly resampled Terrarium DEM; denser mesh does not add measured detail."
+  },
+  "source": "Microsoft Global ML Building Footprints; OpenStreetMap; Mapzen terrain tiles",
+  "estimated_fields": 7,
+  "checks": "Finite metric coordinates, valid polygons, DEM coverage checked"
+}
